@@ -16,10 +16,10 @@ jobs:
       CONFIG_URL:  https://raw.githubusercontent.com/Nightblade/pob-dict/main
     steps:
 
-    - name: Checkout code
+    - name: Checkout Code
       uses: actions/checkout@v3
 
-    - name: Fetch files
+    - name: Fetch Files
       run: |
         curl --silent --show-error --parallel --remote-name-all \
           ${{ env.CONFIG_URL }}/poe-dict.txt
@@ -28,8 +28,10 @@ jobs:
       run: |
         cat src/wiki-dict.txt poe-dict.txt > persdict.dat
 
-    - name: do the thing
-      uses: actions/upload-artifact@v1.0.0
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
       with:
           name: persdict.dat
-          path: '${{ github.workspace }}/persdict.dat'
+          path: persdict.dat
+          if-no-files-found: error
+

@@ -28,39 +28,8 @@ jobs:
       run: |
         cat src/wiki-dict.txt poe-dict.txt > persdict.dat
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
+    - name: do the thing
+      uses: actions/upload-artifact@v1.0.0
       with:
-        node-version: 16
-
-    - name: Add result to repository
-      uses: actions/github-script@v3
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        script: |
-          # Get current branch
-          branch=$(jq -r '.ref' "$GITHUB_EVENT_PATH")
-          # Define new branch name
-          new_branch=join_result
-          # Check if branch already exists
-          existing_branch=$(curl -Ls -o /dev/null -w %{url_effective} \
-            "https://github.com/$GITHUB_REPOSITORY/tree/$new_branch" || echo "not_found")
-          # If the branch already exists, delete it
-          if [ "$existing_branch" != "not_found" ]; then
-            curl -X DELETE \
-              -H "Authorization: token $GITHUB_TOKEN" \
-              https://api.github.com/repos/$GITHUB_REPOSITORY/git/refs/heads/$new_branch
-          fi
-          # Create new branch
-          curl -X POST \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d "{\"ref\":\"refs/heads/$new_branch\",\"sha\":\"$GITHUB_SHA\"}" \
-            https://api.github.com/repos/$GITHUB_REPOSITORY/git/refs
-          # Add result to repository
-          curl -X PUT \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d "{\"message\":\"Add joined files\",\"content\":\"$(base64 < persdict.dat)\",\"branch\":\"$new_branch\"}" \
-            https://api.github.com/repos/$GITHUB_REPOSITORY/contents/persdict.dat
+          name: persdict.dat
+          path: '${{ github.workspace }}/persdict.dat'

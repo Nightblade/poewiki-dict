@@ -33,7 +33,7 @@ jobs:
       with:
         script: |
           # Get current branch
-          branch=$(jq -r 'ref' "$GITHUB_EVENT_PATH")
+          branch=$(jq -r '.ref' "$GITHUB_EVENT_PATH")
           # Define new branch name
           new_branch=join_result
           # Check if branch already exists

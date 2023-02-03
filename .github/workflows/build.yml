@@ -26,6 +26,11 @@ jobs:
       run: |
         cat src/wiki-dict.txt poe-dict.txt > persdict.dat
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
     - name: Add result to repository
       uses: actions/github-script@v3
       env:

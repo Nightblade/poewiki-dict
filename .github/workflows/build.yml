@@ -2,9 +2,9 @@
 name: 'Build'
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 jobs:
@@ -22,11 +22,12 @@ jobs:
         curl --silent --show-error --parallel --remote-name-all \
           https://raw.githubusercontent.com/Nightblade/pob-dict/main/poe-dict.txt
 
-    - name: Join Files
+    - name: Process Files
       run: |
         cat src/wiki-dict.txt poe-dict.txt > persdict.dat
+        rm poe-dict.txt
 
     - name: Auto-Commit Joined File
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Add joined file
+        commit_message: Auto-Commit Joined File

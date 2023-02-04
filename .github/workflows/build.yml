@@ -24,7 +24,7 @@ jobs:
 
     - name: Process Files
       run: |
-        cat src/wiki-dict.txt poe-dict.txt > persdict.dat
+        cat src/wiki-dict.txt poe-dict.txt | sort -u > persdict.dat
         rm poe-dict.txt
 
     - name: Auto-Commit Joined File

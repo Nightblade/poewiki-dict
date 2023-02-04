@@ -18,7 +18,7 @@ Currently, the following features are not supported:
 
 
 # Installation
-* Download [`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat) 
+* Download [`persdict.dat`](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/persdict.dat) 
 * Move/copy to your `profile directory`.  
 	To quickly find it:
 	* Type `about:support` into the FF address bar,

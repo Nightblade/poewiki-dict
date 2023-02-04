@@ -6,7 +6,7 @@ This repo provides a spell-checker dictionary-file that can be used while editin
 <u>**Note:**  This is a WIP and currently only supports `Firefox`.</u>
 
 # Specifics & Limitations
-([`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat)) is meant to replace your "personal dictionary" file in Firefox.
+[`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat) is meant to replace your "personal dictionary" file in Firefox.
 
 The PoE dictionary is stored in the [`pob-dict`](http://www.github.com/Nightblade/pob-dict) repository, and is merged with the wiki dictionary from the `src` folder here whenever the [`build`](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run.
 

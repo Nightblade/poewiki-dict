@@ -5,10 +5,17 @@ This repo provides a spell-checker dictionary-file that can be used while editin
 
 <u>**Note:**  This is a WIP and currently only supports `Firefox`.</u>
 
-# Specifics
-The main file ([`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat)) is meant to replace your "personal dictionary" file in Firefox.
+# Specifics & Limitations
+([`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat)) is meant to replace your "personal dictionary" file in Firefox.
 
-As Firefox's personal dictionary is case-sensitive, all words are included twice to reduce false spelling errors.   Words that are **ALLCAPS** are the exception.
+The PoE dictionary is stored in the [pob-dict](http://www.github.com/Nightblade/pob-dict) repository, and is merged with the wiki dictionary from the `src` folder here whenever the [`build`](https://github.com/Nightblade/poewiki-dict/blob/main/.github/workflows/build.yml) workflow is run.
+
+As Firefox's personal dictionary is case-sensitive, all words are included twice (lower-case and proper-caps) to reduce false spelling errors.   Words in **ALLCAPS** are the exception.
+
+Currently, the following features are not supported:
+* words containing apostrophes
+* three-letter-words
+
 
 # Installation
 * Download [`persdict.dat`](https://github.com/Nightblade/poewiki-dict/blob/main/persdict.dat) 

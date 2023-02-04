@@ -342,6 +342,7 @@ Celona
 Cephalis
 Ceraunophile
 Cerberon
+Ch'aska
 Chaber
 Chainbreaker
 Chainmail
@@ -350,7 +351,6 @@ Chaosresist
 Chaosweaver
 Charactername
 Charan
-Ch'aska
 Chayula
 Chernobog
 Cherrubim
@@ -443,8 +443,8 @@ Darsia
 Dataminable
 Datamined
 Datamining
-Davaro
 Dav'nalleous
+Davaro
 Dawnbreaker
 Dawnstrider
 Deadhand
@@ -978,8 +978,8 @@ Jarek
 Jatin
 Jawchaw
 Jeinei
-Jikeji
 Jik'shah
+Jikeji
 Jiquani
 Jodin
 Jonfé
@@ -990,11 +990,11 @@ Juatalotli
 Junglemare
 Junith
 Justicar
+K'aj
 Kacha
 Kadaka
 Kadaris
 Kadavrus
-K'aj
 Kalandra
 Kalguur
 Kalguuran
@@ -1056,8 +1056,8 @@ Krugg
 Kruug
 Ksaret
 Kuduku
-Kulemak
 Kul'gul
+Kulemak
 Kurai
 Kurgal
 Kutec
@@ -1143,6 +1143,8 @@ Luthis
 Lycius
 Lycosidae
 Lysah
+M'gaska
+M'uneh
 Machinarium
 Macrotaen
 Maelström
@@ -1206,7 +1208,6 @@ Metamorph
 Metamorphs
 Mevia
 Mevion
-M'gaska
 Miasmeter
 Microfreezes
 Microtransaction
@@ -1253,7 +1254,6 @@ Multistrike
 Multistrikeable
 Multithrow
 Multitrap
-M'uneh
 Murgeth
 Muruk
 Mushrune
@@ -1457,6 +1457,7 @@ Pyromancer
 Pyromancers
 Pyromantic
 Pyroshock
+Q'ura
 Qarl
 Qotra
 Quecholli
@@ -1467,7 +1468,6 @@ Quetzerxi
 Quetzling
 Quickblood
 Quipolatl
-Q'ura
 Raethan
 Rageblade
 Ragestorm
@@ -2534,6 +2534,7 @@ celona
 cephalis
 ceraunophile
 cerberon
+ch'aska
 chaber
 chainbreaker
 chainmail
@@ -2542,7 +2543,6 @@ chaosresist
 chaosweaver
 charactername
 charan
-ch'aska
 chayula
 chernobog
 cherrubim
@@ -2634,8 +2634,8 @@ darsia
 dataminable
 datamined
 datamining
-davaro
 dav'nalleous
+davaro
 dawnbreaker
 dawnstrider
 deadhand
@@ -3167,8 +3167,8 @@ jarek
 jatin
 jawchaw
 jeinei
-jikeji
 jik'shah
+jikeji
 jiquani
 jodin
 jonfé
@@ -3179,11 +3179,11 @@ juatalotli
 junglemare
 junith
 justicar
+k'aj
 kacha
 kadaka
 kadaris
 kadavrus
-k'aj
 kalandra
 kalguur
 kalguuran
@@ -3245,8 +3245,8 @@ krugg
 kruug
 ksaret
 kuduku
-kulemak
 kul'gul
+kulemak
 kurai
 kurgal
 kutec
@@ -3332,6 +3332,8 @@ luthis
 lycius
 lycosidae
 lysah
+m'gaska
+m'uneh
 machinarium
 macrotaen
 maelström
@@ -3395,7 +3397,6 @@ metamorph
 metamorphs
 mevia
 mevion
-m'gaska
 miasmeter
 microfreezes
 microtransaction
@@ -3442,7 +3443,6 @@ multistrike
 multistrikeable
 multithrow
 multitrap
-m'uneh
 murgeth
 muruk
 mushrune
@@ -3642,6 +3642,7 @@ pyromancer
 pyromancers
 pyromantic
 pyroshock
+q'ura
 qarl
 qotra
 quecholli
@@ -3652,7 +3653,6 @@ quetzerxi
 quetzling
 quickblood
 quipolatl
-q'ura
 raethan
 rageblade
 ragestorm

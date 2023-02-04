@@ -24,10 +24,17 @@ jobs:
 
     - name: Process Files
       run: |
-        cat src/wiki-dict.txt poe-dict.txt | sort -u > persdict.dat
+        cat src/wiki-dict.txt poe-dict.txt | awk '{ 
+          if ($0 !~ /^[A-Z]+$/) { 
+            printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2)) 
+            print tolower($0) 
+          } else { 
+            print $0 
+          } 
+        }' | sort -u > persdict.dat
         rm poe-dict.txt
 
-    - name: Auto-Commit Joined File
+    - name: Auto-Commit File
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Auto-Commit Joined File
+        commit_message: Auto-Commit File

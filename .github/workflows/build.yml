@@ -31,7 +31,7 @@ jobs:
           } else { 
             print $0 
           } 
-        }' | sort -du > persdict.dat
+        }' | sort -iu > persdict.dat
         rm poe-dict.txt
 
     - name: Auto-Commit File

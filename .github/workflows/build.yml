@@ -24,7 +24,6 @@ jobs:
 
     - name: Process Files
       run: |
-        rm persdict.dat
         sort -fu src/wiki-dict.txt poe-dict.txt | awk '{ 
           if ($0 !~ /^[A-Z]+$/) { 
             printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2)) 

@@ -4,6 +4,7 @@ ballhooking
 beforedate
 betachange
 Blvcksvn
+console_skill_dont_chase
 colspan
 CONCAT
 CURRENTYEAR
@@ -22,6 +23,7 @@ issuedate
 lightgreen
 mathbb
 mbox
+mico
 mushrune
 Navbox
 nbsp

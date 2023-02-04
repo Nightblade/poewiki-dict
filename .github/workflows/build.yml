@@ -1,8 +1,6 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
 name: 'Build'
 
-permissions: write-all
-
 on:
   push:
     branches:
@@ -12,26 +10,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env: 
-      CONFIG_URL:  https://raw.githubusercontent.com/Nightblade/pob-dict/main
     steps:
 
-    - name: Checkout Code
+    - name: Checkout
       uses: actions/checkout@v3
+      with:
+        ref: ${{ github.head_ref }}
 
-    - name: Fetch Files
+    - name: Fetch Additional Files
       run: |
         curl --silent --show-error --parallel --remote-name-all \
-          ${{ env.CONFIG_URL }}/poe-dict.txt
+          https://raw.githubusercontent.com/Nightblade/pob-dict/main/poe-dict.txt
 
     - name: Join Files
       run: |
         cat src/wiki-dict.txt poe-dict.txt > persdict.dat
 
-    - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+    - name: Auto-Commit Joined File
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-          name: persdict.dat
-          path: persdict.dat
-          if-no-files-found: error
-
+        commit_message: Add joined file

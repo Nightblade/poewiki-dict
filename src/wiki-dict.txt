@@ -6,7 +6,6 @@ betachange
 Blvcksvn
 colspan
 CONCAT
-console_skill_dont_chase
 CURRENTYEAR
 DEFAULTSORT
 floatright

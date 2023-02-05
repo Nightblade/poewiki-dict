@@ -32,6 +32,7 @@ jobs:
             print $0 
           } 
         }' > persdict.dat
+        cp persdict.dat "Custom Dictionary.txt"
         rm poe-dict.txt
 
     - name: Auto-Commit File

@@ -19,7 +19,7 @@ The dictionary files here are generated from [CSpell](http://www.github.com/stre
 	* Next to `Profile Folder`, click `Open Folder`.
 
 ## Chrome
-* Download [Custom Dictionary.txt](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/Custom Dictionary.txt) 
+* Download [Custom Dictionary.txt](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/Custom%20Dictionary.txt) 
 * Move/copy it to your `profile directory`.
 * Delete any existing `Custom Dictionary.txt.backup` file.  (This is to stop Chrome trying to restore this file and overwriting your new file).  
 	To find your profile directory:

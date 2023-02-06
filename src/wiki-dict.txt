@@ -4,9 +4,9 @@ ballhooking
 beforedate
 betachange
 Blvcksvn
-console_skill_dont_chase
 colspan
 CONCAT
+console_skill_dont_chase
 CURRENTYEAR
 DEFAULTSORT
 floatright
@@ -40,6 +40,7 @@ PAGENAME
 PAGENAMEBASE
 patchdate
 poedb
+poelab
 pypoe
 Rawlnx
 reflist

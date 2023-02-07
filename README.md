@@ -27,9 +27,25 @@ The dictionary files here are generated from [CSpell](http://www.github.com/stre
 	* Copy the text next to `Profile Path:`,
 	* Paste this into an Explorer window or equivalent.
 
-# Misc info
 
-The PoE dictionary is stored in the [pob-dict](http://www.github.com/Nightblade/pob-dict) repository, and is merged with the wiki dictionary from the `src` folder here whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run.
+# Source
+
+The source files listed below are all `plaintext`, `UTF-8`, `LF`-terminated, with a single word on each line.
+
+These files are all stored in the [pob-dict](http://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo under the [src](src) directory.
+
+| Filename                       | Description
+| ------------------------------ | -----------
+| [poe-dict.txt](http://www.github.com/Nightblade/pob-dict) | Words specific to [Path of Exile](https://www.pathofexile.com/).
+| [pob-dict.txt](http://www.github.com/Nightblade/pob-dict/pob-dict.txt) | Words used in the PoB source-code and associated files.
+| [ignore-dict.txt](http://www.github.com/Nightblade/pob-dict/ignore-dict.txt) | PoB-specific-words to be ignored.
+| [extra-en-dict.txt](http://www.github.com/Nightblade/pob-dict/extra-en-dict.txt) | Extra English words that are not in cSpell's dictionaries.
+| [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
+
+
+# Build details 
+
+Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source-files mentioned above are fetched, concatenated, sorted, processed as mentioned earlier, and then automatically checked-in and committed if any changes are detected.
 
 
 # License

@@ -34,11 +34,13 @@ jobs:
             printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2)) 
             print tolower($0) 
           } else { 
-            print $0 
+            if ($0 !~ /^$/) {
+              print $0
+            }
           } 
         }' > persdict.dat
         cp persdict.dat "Custom Dictionary.txt"
-        rm poe-dict.txt
+        rm poe-dict.txt pob-dict.txt ignore-dict.txt
 
     - name: Auto-Commit File
       uses: stefanzweifel/git-auto-commit-action@v4

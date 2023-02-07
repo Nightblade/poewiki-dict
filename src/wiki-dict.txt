@@ -9,6 +9,7 @@ CONCAT
 console_skill_dont_chase
 CURRENTYEAR
 DEFAULTSORT
+Faendris
 floatright
 FULLBASEPAGENAME
 fullname
@@ -40,12 +41,14 @@ PAGENAME
 PAGENAMEBASE
 patchdate
 poedb
+poeforum
 poelab
 pypoe
 Rawlnx
 reflist
 Rhexes
 rowspan
+siderooms
 tablerow
 tocright
 typeless

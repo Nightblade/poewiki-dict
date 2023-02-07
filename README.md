@@ -5,7 +5,7 @@ This repo provides spell-checker dictionary files that can be used while editing
 
 # Limitations
 
-The dictionary files here are generated from [CSpell](http://www.github.com/streetsidesoftware/cspell) dictionary files.  CSpell's spell-checker ignores words less than four characters long by default, and handles possessives (`'s`) correctly.  By contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
+The dictionary files here are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  CSpell's spell-checker ignores words less than four characters long by default, and handles possessives (`'s`) correctly.  By contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
 
 (Also, Firefox & Chrome are strictly case-sensitive, but I have addressed this by adding each word twice with alternating capitalization.  Words in ALLCAPS are the exception.)
 
@@ -32,14 +32,14 @@ The dictionary files here are generated from [CSpell](http://www.github.com/stre
 
 The source files listed below are all `plaintext`, `UTF-8`, `LF`-terminated, with a single word on each line.
 
-These files are all stored in the [pob-dict](http://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo under the [src](src) directory.
+These files are all stored in the [pob-dict](https://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo under the [src](src) directory.
 
 | Filename                       | Description
 | ------------------------------ | -----------
-| [poe-dict.txt](http://www.github.com/Nightblade/pob-dict) | Words specific to [Path of Exile](https://www.pathofexile.com/).
-| [pob-dict.txt](http://www.github.com/Nightblade/pob-dict/pob-dict.txt) | Words used in the PoB source-code and associated files.
-| [ignore-dict.txt](http://www.github.com/Nightblade/pob-dict/ignore-dict.txt) | PoB-specific-words to be ignored.
-| [extra-en-dict.txt](http://www.github.com/Nightblade/pob-dict/extra-en-dict.txt) | Extra English words that are not in cSpell's dictionaries.
+| [poe-dict.txt](https://www.github.com/Nightblade/blob/main/pob-dict) | Words specific to [Path of Exile](https://www.pathofexile.com/).
+| [pob-dict.txt](https://www.github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
+| [ignore-dict.txt](https://www.github.com/Nightblade/pob-dict/blob/main/ignore-dict.txt) | PoB-specific-words to be ignored.
+| [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in cSpell's dictionaries.
 | [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
 
 

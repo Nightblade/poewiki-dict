@@ -45,7 +45,7 @@ These files are all stored in the [pob-dict](https://www.github.com/Nightblade/p
 
 # Build details 
 
-Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source-files mentioned above are fetched, concatenated, sorted, processed as mentioned earlier, and then automatically checked-in and committed if any changes are detected.
+Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source-files mentioned above are fetched, concatenated, sorted, processed as mentioned earlier, and the results are then automatically checked-in and committed if any changes are detected.
 
 
 # License

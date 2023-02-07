@@ -36,9 +36,9 @@ These files are all stored in the [pob-dict](https://www.github.com/Nightblade/p
 
 | Filename                       | Description
 | ------------------------------ | -----------
-| [poe-dict.txt](https://www.github.com/Nightblade/blob/main/pob-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
-| [pob-dict.txt](https://www.github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
-| [ignore-dict.txt](https://www.github.com/Nightblade/pob-dict/blob/main/ignore-dict.txt) | PoB-specific-words to be ignored.
+| [poe-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
+| [pob-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
+| [ignore-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/ignore-dict.txt) | PoB-specific-words to be ignored.
 | [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in cSpell's dictionaries.
 | [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
 

@@ -40,7 +40,7 @@ jobs:
           } 
         }' > persdict.dat
         cp persdict.dat "Custom Dictionary.txt"
-        rm poe-dict.txt pob-dict.txt ignore-dict.txt
+        rm poe-dict.txt pob-dict.txt ignore-dict.txt extra-en-dict.txt
 
     - name: Auto-Commit File
       uses: stefanzweifel/git-auto-commit-action@v4

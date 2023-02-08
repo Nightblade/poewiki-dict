@@ -30,7 +30,7 @@ The dictionary files here are generated from [CSpell](https://www.github.com/str
 
 # Source
 
-The source files listed below are all `plaintext`, `UTF-8`, `LF`-terminated, with a single word on each line.
+All `.txt` files listed below are `plaintext`, `UTF-8`, `LF`-`EOL`, with a single word per line.
 
 These files are all stored in the [pob-dict](https://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo under the [src](src) directory.
 

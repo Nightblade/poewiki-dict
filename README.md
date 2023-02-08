@@ -5,7 +5,7 @@ This repository provides spell-checker dictionaries for Firefox and Chrome, spec
 
 # Limitations
 
-The spell-checker dictionaries in this repository are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  By default, CSpell's spell-checker ignores words less than four characters long, and handles possessives (`'s`) correctly.  In contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
+The spell-checker dictionaries in this repository are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  By default, CSpell's spell-checker ignores words less than **four** characters long, and handles possessives (`'s`) correctly.  In contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
 
 (Also, Firefox & Chrome are case-sensitive, but I have addressed this by adding each word twice with alternating capitalization, with the exception of ALLCAPS words.)
 

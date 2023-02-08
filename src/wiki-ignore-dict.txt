@@ -1,9 +1,11 @@
 accessdate
 afterdate
+amuletatlas
 ballhooking
 beforedate
 betachange
 Blvcksvn
+Bodelle
 colspan
 CONCAT
 console_skill_dont_chase
@@ -20,8 +22,10 @@ hydrojerking
 ifeq
 imagealt
 infocard
+intjewel
 issuedate
 lightgreen
+lsth
 mathbb
 mbox
 mico
@@ -49,6 +53,7 @@ reflist
 Rhexes
 rowspan
 siderooms
+strjewel
 tablerow
 tocright
 typeless

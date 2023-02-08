@@ -1,13 +1,13 @@
 
 # poewiki-dict
 
-This repo provides spell-checker dictionary files that can be used while editing articles on [poewiki.net](https://www.poewiki.net) with Firefox or Chrome.  It contains words & names specific to [Path of Exile](https://www.pathofexile.com) together with words commonly used while editing pages on [Mediawiki](https://www.mediawiki.org)-based sites.
+This repository provides spell-checker dictionaries for Firefox and Chrome, specifically tailored for editing articles on [poewiki.net](https://www.poewiki.net).
 
 # Limitations
 
-The dictionary files here are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  CSpell's spell-checker ignores words less than four characters long by default, and handles possessives (`'s`) correctly.  By contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
+The spell-checker dictionaries in this repository are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  By default, CSpell's spell-checker ignores words less than four characters long, and handles possessives (`'s`) correctly.  In contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
 
-(Also, Firefox & Chrome are strictly case-sensitive, but I have addressed this by adding each word twice with alternating capitalization.  Words in ALLCAPS are the exception.)
+(Also, Firefox & Chrome are case-sensitive, but I have addressed this by adding each word twice with alternating capitalization, with the exception of ALLCAPS words.)
 
 # Installation
 

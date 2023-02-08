@@ -106,6 +106,8 @@ Ambrius
 ambrius
 Ambu
 ambu
+Amuletatlas
+amuletatlas
 Anacuacotli
 anacuacotli
 Anaveli
@@ -256,6 +258,8 @@ Atks
 atks
 Atlascruasderjudgefadingnova
 atlascruasderjudgefadingnova
+Atlaspassives
+atlaspassives
 Atmohua
 atmohua
 Attackspeed
@@ -574,6 +578,8 @@ Bluntslag
 bluntslag
 Blvcksvn
 blvcksvn
+Bodelle
+bodelle
 Bodyswap
 bodyswap
 Bodythief
@@ -716,6 +722,8 @@ Caeserius
 caeserius
 Cafar
 cafar
+Caisarius
+caisarius
 Calaf
 calaf
 Calderus
@@ -1457,6 +1465,8 @@ Excludable
 excludable
 Exertable
 exertable
+Exilecon
+exilecon
 Extantia
 extantia
 Eyeofthe
@@ -1537,6 +1547,8 @@ Fidium
 fidium
 Filimite
 filimite
+Filimites
+filimites
 Findexplicit
 findexplicit
 Findimplicit
@@ -1659,6 +1671,7 @@ Floatright
 floatright
 Flockmate
 flockmate
+FMOD
 Forgeguard
 forgeguard
 Forgekeeper
@@ -2265,6 +2278,10 @@ Interactables
 interactables
 Intimidating_cry_empowerd_
 intimidating_cry_empowerd_
+Intjewel
+intjewel
+Intoxicatingly
+intoxicatingly
 Inua
 inua
 Invari
@@ -2297,6 +2314,8 @@ Isla
 isla
 Issuedate
 issuedate
+Itemfilters
+itemfilters
 Itemlevel
 itemlevel
 Ivniinvi
@@ -2691,6 +2710,8 @@ Lpolaright
 lpolaright
 Lshift
 lshift
+Lsth
+lsth
 Luacov
 luacov
 Luajit
@@ -2789,6 +2810,8 @@ Manatext
 manatext
 Manaweave
 manaweave
+Marak
+marak
 Maraketh
 maraketh
 Maramoa
@@ -3077,6 +3100,8 @@ Nessa
 nessa
 Nestback
 nestback
+Netcode
+netcode
 Nethermancer
 nethermancer
 Netol
@@ -3535,6 +3560,8 @@ Q'ura
 q'ura
 Qarl
 qarl
+Qianga
+qianga
 Qotra
 qotra
 Quals
@@ -3631,6 +3658,8 @@ Recombinators
 recombinators
 Recov
 recov
+Recrafted
+recrafted
 Redbeak
 redbeak
 Redblade
@@ -3737,6 +3766,8 @@ Roastpiece
 roastpiece
 Rockchewer
 rockchewer
+Rockpools
+rockpools
 Roguelike
 roguelike
 Rollable
@@ -4323,6 +4354,8 @@ Stridevolf
 stridevolf
 Striketail
 striketail
+Strjewel
+strjewel
 Stro
 stro
 Strongarm

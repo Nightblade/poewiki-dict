@@ -3,6 +3,7 @@ afterdate
 amuletatlas
 ballhooking
 beforedate
+beltatlas
 betachange
 Blvcksvn
 Bodelle
@@ -10,6 +11,7 @@ colspan
 CONCAT
 console_skill_dont_chase
 CURRENTYEAR
+darkred
 DEFAULTSORT
 Faendris
 floatright
@@ -17,10 +19,12 @@ FULLBASEPAGENAME
 fullname
 FULLPAGENAME
 hatnote
+helmetatlas
 Huizui
 hydrojerking
 ifeq
 imagealt
+includeonly
 infocard
 intjewel
 issuedate
@@ -41,6 +45,7 @@ NOTOC
 nowiki
 nowrap
 NZDT
+onclick
 onlyinclude
 PAGENAME
 PAGENAMEBASE
@@ -53,13 +58,16 @@ Rawlnx
 reflist
 Rhexes
 rowspan
+Sidearea
 siderooms
 strjewel
 tablerow
+tbody
 tocright
 typeless
 vaaling
 vardefine
 vinifera
+Viperesque
 webm
 wikitable

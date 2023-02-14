@@ -1,5 +1,6 @@
 accessdate
 afterdate
+altquality
 amuletatlas
 ballhooking
 beforedate
@@ -13,6 +14,8 @@ console_skill_dont_chase
 CURRENTYEAR
 darkred
 DEFAULTSORT
+CardSambodhisWisdom
+Elderslayerunique
 Faendris
 floatright
 FULLBASEPAGENAME
@@ -23,6 +26,7 @@ hatnote
 helmetatlas
 Huizui
 hydrojerking
+if_havent_blocked
 ifeq
 imagealt
 includeonly
@@ -30,11 +34,16 @@ infocard
 intjewel
 issuedate
 lightgreen
+EnergySheildUnique
 lsth
 mana
+MapDoesntConsume
+MapWorldsChateau
 mathbb
 mbox
+mbXtreme
 mico
+Morsexier
 mushrune
 Navbox
 nbsp
@@ -55,16 +64,20 @@ poedb
 poeforum
 poelab
 pypoe
+DropsAtzirisFoible
 Rawlnx
 reflist
+refs
 Rhexes
 rowspan
 Sidearea
 siderooms
 skillbar
+Slipperyjim
 strjewel
 tablerow
 tbody
+Thorneycroft
 tocright
 typeless
 vaaling
@@ -73,3 +86,4 @@ vinifera
 Viperesque
 webm
 wikitable
+you_havent_killed

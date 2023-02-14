@@ -18,6 +18,7 @@ floatright
 FULLBASEPAGENAME
 fullname
 FULLPAGENAME
+glovesatlasstrint
 hatnote
 helmetatlas
 Huizui
@@ -60,6 +61,7 @@ Rhexes
 rowspan
 Sidearea
 siderooms
+skillbar
 strjewel
 tablerow
 tbody

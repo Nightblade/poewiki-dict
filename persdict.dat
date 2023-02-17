@@ -469,6 +469,10 @@ Bestel
 bestel
 Betachange
 betachange
+Betrayalaislin
+betrayalaislin
+Betrayalkeema
+betrayalkeema
 Betucia
 betucia
 Bilesome
@@ -757,6 +761,8 @@ Burtok
 burtok
 Butsicles
 butsicles
+Bypassable
+bypassable
 Cabalist
 cabalist
 Cadigan
@@ -988,6 +994,8 @@ Console_skill_dont_chase
 console_skill_dont_chase
 Conv
 conv
+Convertphysicalto
+convertphysicalto
 Convocated
 convocated
 Cooldown
@@ -2342,12 +2350,16 @@ Ierusalimschy
 ierusalimschy
 Ifeq
 ifeq
+Ifhaventused
+ifhaventused
 Ifnjeff
 ifnjeff
 If_havent_blocked
 if_havent_blocked
 Igna
 igna
+Ignarsoll
+ignarsoll
 Ignomon
 ignomon
 Ignorami
@@ -4852,6 +4864,8 @@ Theopolis
 theopolis
 Theorycrafting
 theorycrafting
+Thepapadan
+thepapadan
 Thickskin
 thickskin
 Thistleback
@@ -5094,6 +5108,8 @@ Unalloc
 unalloc
 Unallocating
 unallocating
+Unblockable
+unblockable
 Unbreathing
 unbreathing
 Unbuffed
@@ -5256,6 +5272,8 @@ Valako
 valako
 Valdo
 valdo
+Valign
+valign
 Valyrium
 valyrium
 Vampiric

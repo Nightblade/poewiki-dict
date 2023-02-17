@@ -10,6 +10,8 @@ beforedate
 beltatlas
 Bendyboy
 betachange
+BetrayalAislin
+BetrayalKeema
 Bischof-Köhler
 Blvcksvn
 Bodelle
@@ -21,6 +23,7 @@ CardSambodhisWisdom
 colspan
 CONCAT
 console_skill_dont_chase
+ConvertPhysicalto
 CURRENTYEAR
 darkred
 DEFAULTSORT
@@ -56,6 +59,8 @@ hydrojerking
 Iamnewhere
 if_havent_blocked
 ifeq
+IfHaventUsed
+ignarsoll
 ilvls
 imagealt
 includeonly
@@ -136,6 +141,7 @@ Tani
 Tarke
 tbody
 TheDiabeetusKing
+thepapadan
 Thorneycroft
 tocright
 Touhou
@@ -143,6 +149,7 @@ typeless
 Unbug
 Unided
 vaaling
+valign
 vardefine
 vinifera
 Viperesque

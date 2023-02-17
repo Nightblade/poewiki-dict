@@ -10,6 +10,7 @@ beforedate
 beltatlas
 Bendyboy
 betachange
+Bischof-Köhler
 Blvcksvn
 Bodelle
 bootsatlasdexint
@@ -24,6 +25,7 @@ CURRENTYEAR
 darkred
 DEFAULTSORT
 DropsAtzirisFoible
+DropsMaligarosVirtuosity
 Elderslayerunique
 EnergySheildUnique
 Faendris
@@ -36,7 +38,10 @@ FULLPAGENAME
 Furty
 gemdesc
 glovesatlasstrint
+Habraken
 harrytrumanprimate
+HarvestBlackstrider
+HarvestHuhu
 hatnote
 HellscapeSkeletonStagbandit
 helmetatlas
@@ -44,6 +49,8 @@ HideoutImageof
 HideoutLakeof
 HideoutMarketdebris
 hitting_unqiue
+Horticrafted
+Hrishi
 Huizui
 hydrojerking
 Iamnewhere
@@ -56,6 +63,9 @@ infocard
 intjewel
 Isarill
 issuedate
+jddogg
+Kennard
+Kripp
 lightgreen
 lsth
 mana
@@ -75,11 +85,13 @@ MicrotransactionSinand
 MinonArea
 Mitchinson
 ModifyableWhile
+MonsterBox
 Morsexier
 mushrune
 Navbox
 nbsp
 ndash
+Nickoladze
 noinclude
 nontradable
 Noshei
@@ -90,6 +102,8 @@ nowrap
 NZDT
 onclick
 onlyinclude
+OrbofStormsEffect
+overleech
 PAGENAME
 PAGENAMEBASE
 parent_activiation_range
@@ -98,6 +112,7 @@ poedb
 poeforum
 poelab
 pypoe
+Rainbowstrides
 Rawlnx
 Redmane
 reflist
@@ -109,6 +124,7 @@ RyuslathaMaximum
 RyuslathaMinimum
 Seerix
 Sidearea
+sideboss
 siderooms
 skillbar
 skills_cant_be
@@ -116,11 +132,13 @@ Slipperyjim
 strjewel
 tablerow
 TALKPAGENAME
+Tani
 Tarke
 tbody
 TheDiabeetusKing
 Thorneycroft
 tocright
+Touhou
 typeless
 Unbug
 Unided

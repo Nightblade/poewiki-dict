@@ -22,6 +22,8 @@ Acidbeak
 acidbeak
 Actaeo
 actaeo
+Activatable
+activatable
 Actum
 actum
 Adamantite
@@ -469,12 +471,16 @@ Betachange
 betachange
 Betucia
 betucia
+Bilesome
+bilesome
 Bin'aia
 bin'aia
 Bino
 bino
 Bircus
 bircus
+Bischof-köhler
+bischof-köhler
 Bisco
 bisco
 Bismuthplated
@@ -597,6 +603,8 @@ Bloodseeker
 bloodseeker
 Bloodshaper
 bloodshaper
+Bloodshapers
+bloodshapers
 Bloodsoaked
 bloodsoaked
 Bloodstorm
@@ -990,6 +998,8 @@ Coolus
 coolus
 Coralito
 coralito
+Corbies
+corbies
 Corpsebloom
 corpsebloom
 Corpsestitch
@@ -1149,6 +1159,8 @@ Deathmarked
 deathmarked
 Deathnotch
 deathnotch
+Deatomisation
+deatomisation
 Deatomization
 deatomization
 Debeon
@@ -1354,6 +1366,8 @@ Dropdowns
 dropdowns
 Dropsatzirisfoible
 dropsatzirisfoible
+Dropsmaligarosvirtuosity
+dropsmaligarosvirtuosity
 Droughtspawn
 droughtspawn
 Drox
@@ -2076,6 +2090,8 @@ Gwayne
 gwayne
 Gwennen
 gwennen
+Habraken
+habraken
 Hadrey
 hadrey
 Haemocombustion
@@ -2108,6 +2124,10 @@ Harpyon
 harpyon
 Harrytrumanprimate
 harrytrumanprimate
+Harvestblackstrider
+harvestblackstrider
+Harvesthuhu
+harvesthuhu
 Hasina
 hasina
 Hatchetmaster
@@ -2246,6 +2266,8 @@ Hoofprints
 hoofprints
 Hopeshredder
 hopeshredder
+Horticrafted
+horticrafted
 Horticrafting
 horticrafting
 Hortus
@@ -2264,6 +2286,8 @@ Hrimnor
 hrimnor
 Hrimsorrow
 hrimsorrow
+Hrishi
+hrishi
 Httpheader
 httpheader
 Huitepa
@@ -2474,6 +2498,8 @@ Jatin
 jatin
 Jawchaw
 jawchaw
+Jddogg
+jddogg
 Jeinei
 jeinei
 Jfarrell731
@@ -2522,6 +2548,8 @@ Kadaris
 kadaris
 Kadavrus
 kadavrus
+Kaikohuru
+kaikohuru
 Kalandra
 kalandra
 Kalguur
@@ -2556,6 +2584,8 @@ Kastov
 kastov
 Kayella
 kayella
+Kennard
+kennard
 Keybind
 keybind
 Keybinds
@@ -2654,6 +2684,8 @@ Krangled
 krangled
 Krillson
 krillson
+Kripp
+kripp
 Krow
 krow
 Krugg
@@ -3152,6 +3184,8 @@ Monerofglory
 monerofglory
 Moneypouch
 moneypouch
+Monsterbox
+monsterbox
 Moonbender
 moonbender
 Moondrops
@@ -3322,6 +3356,8 @@ Ngamakunui
 ngamakunui
 Ngmagakanui
 ngmagakanui
+Nickoladze
+nickoladze
 Nightbearer
 nightbearer
 Nightblade
@@ -3445,6 +3481,8 @@ Opiloti
 opiloti
 Orbala
 orbala
+Orbofstormseffect
+orbofstormseffect
 Oriath
 oriath
 Oriathan
@@ -3489,6 +3527,8 @@ Overcap
 overcap
 Overcapped
 overcapped
+Overleech
+overleech
 Overperforming
 overperforming
 Overprepared
@@ -3817,6 +3857,8 @@ Raihara
 raihara
 Rainbowstride
 rainbowstride
+Rainbowstrides
+rainbowstrides
 Raincaller
 raincaller
 Rakango
@@ -3871,6 +3913,8 @@ Reanimator
 reanimator
 Reanimators
 reanimators
+Reave
+reave
 Recombinator
 recombinator
 Recombinators
@@ -4003,6 +4047,8 @@ Rockchewer
 rockchewer
 Rockpools
 rockpools
+Rocksalt
+rocksalt
 Roguelike
 roguelike
 Rollable
@@ -4017,6 +4063,8 @@ Rotblood
 rotblood
 Rotfeather
 rotfeather
+Roths
+roths
 Rothus
 rothus
 Rotmother
@@ -4231,6 +4279,8 @@ Shocknova
 shocknova
 Shockproofing
 shockproofing
+Shockwave
+shockwave
 Shockwaves
 shockwaves
 Shortsword
@@ -4243,6 +4293,8 @@ Sida-wang
 sida-wang
 Sidearea
 sidearea
+Sideboss
+sideboss
 Siderooms
 siderooms
 Sidhebreath
@@ -4724,6 +4776,10 @@ Tangmazu
 tangmazu
 Tangzx
 tangzx
+Tani
+tani
+Tankier
+tankier
 Tanky
 tanky
 Tansheron
@@ -4872,6 +4928,8 @@ Tinkerskin
 tinkerskin
 Tinos
 tinos
+Tipua
+tipua
 Tirn
 tirn
 Titanicmight
@@ -4914,6 +4972,8 @@ Totemable
 totemable
 Totemified
 totemified
+Touhou
+touhou
 Toxicist
 toxicist
 Transmutia
@@ -5074,6 +5134,8 @@ Unfetched
 unfetched
 Unfound
 unfound
+Unfreezable
+unfreezable
 Unfun
 unfun
 Ungil
@@ -5128,6 +5190,8 @@ Unsurvivable
 unsurvivable
 Untargetable
 untargetable
+Untiered
+untiered
 Untradable
 untradable
 Untriggerable

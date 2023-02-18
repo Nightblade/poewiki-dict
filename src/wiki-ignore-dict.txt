@@ -76,7 +76,6 @@ Kennard
 Kripp
 lightgreen
 lsth
-mana
 MapDoesntConsume
 MapWorldsChateau
 mathbb

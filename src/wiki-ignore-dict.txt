@@ -38,6 +38,7 @@ EnergySheildUnique
 equipment_counterthaumaturge
 Faendris
 FistofWarEffect
+FlaskDispellsBurning1
 floatright
 fmbox
 FORCETOC
@@ -87,6 +88,7 @@ mbox
 mbXtreme
 mdash
 mico
+MicrotransactionBlackandWhiteGloves
 MicrotransactionFireand
 MicrotransactionFlutterof
 MicrotransactionGodof
@@ -165,4 +167,5 @@ vinifera
 Viperesque
 webm
 wikitable
+windzqt
 you_havent_killed

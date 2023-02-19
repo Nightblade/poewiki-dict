@@ -12,7 +12,7 @@ Bendyboy
 betachange
 BetrayalAislin
 BetrayalKeema
-Bischof-Köhler
+Bischof
 Blvcksvn
 Bodelle
 bootsatlasdexint
@@ -73,6 +73,7 @@ Isarill
 issuedate
 jddogg
 Kennard
+Köhler
 Kripp
 lightgreen
 lsth

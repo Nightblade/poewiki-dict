@@ -6,6 +6,7 @@ altquality
 Amarantha
 amuletatlas
 ballhooking
+BeastofBurden
 beforedate
 beltatlas
 Bendyboy
@@ -34,7 +35,9 @@ DropsAtzirisFoible
 DropsMaligarosVirtuosity
 Elderslayerunique
 EnergySheildUnique
+equipment_counterthaumaturge
 Faendris
+FistofWarEffect
 floatright
 fmbox
 FORCETOC
@@ -118,6 +121,7 @@ PAGENAME
 PAGENAMEBASE
 parent_activiation_range
 patchdate
+PhysicalDamge
 poedb
 poeforum
 poelab
@@ -128,6 +132,7 @@ Redmane
 reflist
 refs
 Rhexes
+roguelikes
 rowspan
 RyuslathaMax
 RyuslathaMaximum

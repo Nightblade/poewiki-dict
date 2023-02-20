@@ -1,9 +1,11 @@
 accessdate
 afterdate
+ailmentres_notable2763
 altgem
 altquality
 Amarantha
 amuletatlas
+AsenathsMarkFated
 ballhooking
 base_onlsaught_on_hit
 beforedate
@@ -16,12 +18,14 @@ Bodelle
 bootsatlas
 bootsatlasdexint
 Butsicles
+categorytree
 colspan
 CONCAT
 console_skill_dont_chase
 CURRENTYEAR
 darkred
 DEFAULTSORT
+DelevelBook
 Elderslayerunique
 Faendris
 FlaskDispellsBurning1
@@ -32,6 +36,7 @@ FULLBASEPAGENAME
 fullname
 FULLPAGENAME
 Furty
+GamepediaBook
 gemdesc
 glovesatlasstrint
 guildmate
@@ -39,7 +44,10 @@ Habraken
 harrytrumanprimate
 HarvestHuhu
 hatnote
+HellscapeSkeletonStagbandit
 helmetatlas
+HideoutImageofVorici
+hideroot
 hitting_unqiue
 Horticrafted
 Hrishi
@@ -60,6 +68,7 @@ Isarill
 issuedate
 jddogg
 Kennard
+Kjetilstorm
 Köhler
 Kripp
 lightgreen
@@ -71,6 +80,7 @@ mbXtreme
 mdash
 mico
 MicrotransactionBlackandWhiteGloves
+MicrotransactionFireandIceWings
 MicrotransactionWhiteBlinkandMirrorArrowEffect
 Mitchinson
 MonsterBox
@@ -79,6 +89,7 @@ mushrune
 Navbox
 nbsp
 ndash
+NEWSECTIONLINK
 Nickoladze
 noinclude
 nontradable
@@ -100,11 +111,17 @@ poedb
 poeforum
 poelab
 pypoe
+qarlnote
 Rainbowstrides
+RareDeathBishopDropsGeofrisBaptism
+RareFightingBullDropsMeginordsGirdle
 Rawlnx
+redlink
 Redmane
+refimprove
 reflist
 refs
+rgba
 Rhexes
 roguelikes
 rowspan
@@ -117,6 +134,7 @@ skillbar
 Slipperyjim
 strjewel
 tablerow
+Tacocat
 TALKPAGENAME
 Tani
 Tarke
@@ -126,6 +144,7 @@ thepapadan
 Thorneycroft
 tocright
 Touhou
+TrapGroundCasuticCloud
 typeless
 Unbug
 Unided
@@ -137,3 +156,5 @@ Viperesque
 webm
 wikitable
 windzqt
+Xanqos
+Zrevnur's

@@ -31,7 +31,7 @@ jobs:
       run: |
         sort -fu src/wiki-ignore-dict.txt pob-dict.txt poe-dict.txt ignore-dict.txt extra-en-dict.txt | awk '{ 
           if ($0 !~ /^$/) {
-            if ($0 !~ /^[A-Z]+$/) { 
+            if ($0 !~ /^..*[A-Z]+/) { 
               printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2)) 
               print tolower($0) 
             } else { 

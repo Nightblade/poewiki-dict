@@ -41,6 +41,7 @@ aetheric
 Aetherwind
 aetherwind
 AffectedByPurityof
+AfflictionNotableWhispersofDeath
 Afkoff
 afkoff
 Afterdate
@@ -256,6 +257,7 @@ Arwyn
 arwyn
 Arzaak
 arzaak
+AscendancyChieftan
 Asenath
 asenath
 AsenathsMarkFated
@@ -485,6 +487,8 @@ Bestel
 bestel
 Betachange
 betachange
+BetrayalAislin
+BetrayalKeema
 Betucia
 betucia
 Bilesome
@@ -695,6 +699,8 @@ Bowmaker
 bowmaker
 Braeta
 braeta
+Braindead
+braindead
 Brambleback
 brambleback
 Bramblejack
@@ -1007,6 +1013,8 @@ Conv
 conv
 Convocated
 convocated
+Cookiejar
+cookiejar
 Cooldown
 cooldown
 Cooldowns
@@ -1058,6 +1066,8 @@ CriticalSrikeChanceUniqueSceptre7
 Crits
 crits
 CritsDontAlways
+Critting
+critting
 Crowstorm
 crowstorm
 Crushclaw
@@ -1267,6 +1277,8 @@ Desynced
 desynced
 Deton
 deton
+Detonatable
+detonatable
 Devoto
 devoto
 DevourlingSwarm
@@ -1420,6 +1432,8 @@ Dryback
 dryback
 Dullson
 dullson
+Durationless
+durationless
 Durationof
 durationof
 Duskblight
@@ -2080,6 +2094,8 @@ Gorulis
 gorulis
 Gowor
 gowor
+Grandaddy
+grandaddy
 Grandmastery
 grandmastery
 Granitecrush
@@ -2239,6 +2255,8 @@ Heavydraw
 heavydraw
 Hedron
 hedron
+Heist_equipment_counterthaumaturge
+heist_equipment_counterthaumaturge
 Heist_equipment_trapdisarmament
 heist_equipment_trapdisarmament
 Helial
@@ -2299,8 +2317,10 @@ hezmin
 Hgdf
 hgdf
 HideoutImageofElreon
+HideoutImageofHaku
 HideoutImageofVorici
 HideoutPrisonTorturedevice7
+HideoutPrisonTorturedevice8
 Hideroot
 hideroot
 Highdove
@@ -2679,6 +2699,7 @@ Kikazaru
 kikazaru
 Killam
 killam
+KillingGemlingLegionareWithKaruiWardAddsSpecificMod
 KillingSoulmournWithHrimnorsHymnAddsSpecificMod
 Killstreak
 killstreak
@@ -2936,6 +2957,7 @@ Lmperialus
 lmperialus
 LocalAddedPhyiscalDamageUnique
 LocalCriticalStrikeChanceUniquSceptre10
+LocalIncreasedEvationRatingPercentUniqueBootsDex9
 Lochtonial
 lochtonial
 Lockpick
@@ -3209,6 +3231,7 @@ Microfreezes
 microfreezes
 Microtransaction
 microtransaction
+MicrotransactionBattlePassFourShavronnesWrappings
 MicrotransactionBlackandWhiteGloves
 MicrotransactionCultofApocalypseBoots
 MicrotransactionFireandIceCloak
@@ -3218,6 +3241,7 @@ MicrotransactionGodofThunderGloves
 MicrotransactionGodofThunderPortraitFrame
 Microtransactions
 microtransactions
+MicrotransactionSharknadoCycloneEffect
 MicrotransactionVoidchargedPolymorphingWand
 MicrotransactionWhiteBlinkandMirrorArrowEffect
 Miem
@@ -3313,6 +3337,8 @@ Motiata
 motiata
 Mousewheel
 mousewheel
+MovementVelicityPerEvasionUniqueBodyDex6
+MovementVeolcityUniqueBodyDex6
 MovementVeolcityUniqueBootsDex4
 Movespeed
 movespeed
@@ -3364,6 +3390,8 @@ Mysterial
 mysterial
 Namelock
 namelock
+Namelocked
+namelocked
 Namelocking
 namelocking
 Namharim
@@ -3897,6 +3925,8 @@ Projectilespeed
 projectilespeed
 Prolif
 prolif
+Prophecised
+prophecised
 Protoguard
 protoguard
 Protovaal
@@ -4001,7 +4031,10 @@ Rania
 rania
 Raphina
 raphina
+Rapidfire
+rapidfire
 RareDeathBishopDropsGeofrisBaptism
+RareDrownedDropsMoonbendersWing
 RareFightingBullDropsMeginordsGirdle
 RareMadGladiatorDropsDaressosPassion
 Rasa
@@ -4060,6 +4093,8 @@ Redlink
 redlink
 Redmane
 redmane
+Redownload
+redownload
 Reduct
 reduct
 Reefbane
@@ -4566,6 +4601,8 @@ Solerai
 solerai
 Solofme
 solofme
+Somesuch
+somesuch
 Someuser
 someuser
 Sortkey
@@ -4574,6 +4611,8 @@ Sothotep
 sothotep
 Soulbinder
 soulbinder
+Souleater
+souleater
 Souleye
 souleye
 Soulfeast
@@ -5307,6 +5346,8 @@ Ungil
 ungil
 Ungulath
 ungulath
+Unhearable
+unhearable
 Unided
 unided
 Unidentify
@@ -5316,6 +5357,7 @@ unignore
 UniqueCosprisMalice
 Uniques
 uniques
+UniqueVolkuursGuidanceIgniteDurationFinal
 Unique_hyrris_truth
 unique_hyrris_truth
 Unmen

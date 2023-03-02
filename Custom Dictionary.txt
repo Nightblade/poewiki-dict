@@ -467,6 +467,8 @@ Belatra
 belatra
 Belcer
 belcer
+Bellum
+bellum
 Beltatlas
 beltatlas
 Beltimber
@@ -1282,6 +1284,8 @@ detonatable
 Devoto
 devoto
 DevourlingSwarm
+Dewath's
+dewath's
 Dewaths
 dewaths
 Dexion

@@ -1,4 +1,6 @@
 accessdate
+AddedChaosDamageToAttacksBeastialMinionUnique__1
+AddedLightningDamagetoSpellsWhileUnarmedUniqueGlovesStr4
 AfflictionNotableWhispersofDeath
 afterdate
 ailmentres_notable2763
@@ -9,6 +11,7 @@ Amarantha
 amuletatlas
 AscendancyChieftan
 AsenathsMarkFated
+AttackAndMovementSpeedBeastialMinionUnique__1
 ballhooking
 base_onlsaught_on_hit
 beforedate
@@ -33,6 +36,7 @@ console_skill_dont_chase
 cookiejar
 CriticalSrikeChanceUniqueSceptre7
 critting
+CultofDarknessPet
 CURRENTYEAR
 darkred
 datacards
@@ -40,10 +44,13 @@ DEFAULTSORT
 DelevelBook
 desummon
 DevourlingSwarm
+DivinationCardAliviasGrace
 DivinationCardAtzirisArsenal
+DivinationCardDoedresMadness
 DivinationCardSambodhisVow
 DivinationCardSocietysRemorse
 dmgeff
+DoedresTenureFated
 Dominusdemon
 Elderslayerunique
 enemies_taunted_by_your_warcies_are_intimidated
@@ -65,8 +72,11 @@ GravicusMoltenShell
 guildmate
 Habraken
 harrytrumanprimate
+HarvestBirddogT3
 HarvestHuhu
 HarvestSeedShieldcrabT2Blue
+HarvestShieldcrabT2
+HarvestShieldcrabT2VolatileSpitter
 hatnote
 heist_equipment_counterthaumaturge
 heist_equipment_trapdisarmament
@@ -75,8 +85,10 @@ helmetatlas
 HideoutImageofElreon
 HideoutImageofHaku
 HideoutImageofVorici
+HideoutOyunsThrone
 HideoutPrisonTorturedevice7
 HideoutPrisonTorturedevice8
+HideoutRuinedCityCatapault
 hideroot
 hitting_unqiue
 Horticrafted
@@ -89,6 +101,7 @@ if_havent_blocked
 ifeq
 IfHaventUsed
 ignarsoll
+ililolili
 ilvls
 imagealt
 includeonly
@@ -121,15 +134,22 @@ mbox
 mbXtreme
 mdash
 mico
+MicrotransactionArchnemesisHandsoftheHighTemplar
 MicrotransactionBattlePassFourShavronnesWrappings
+MicrotransactionBattlePassTwoRumisConcoction
 MicrotransactionBlackandWhiteGloves
 MicrotransactionCultofApocalypseBoots
+MicrotransactionCultofApocalypseHood
+MicrotransactionCultofApocalypsePortraitFrame
 MicrotransactionFireandIceCloak
 MicrotransactionFireandIceWings
 MicrotransactionGodofThunderFootprintsEffect
 MicrotransactionGodofThunderGloves
 MicrotransactionGodofThunderPortraitFrame
+MicrotransactionNenetsHood
+MicrotransactionPerchtenMask
 MicrotransactionSharknadoCycloneEffect
+MicrotransactionSinandInnocenceShortsword
 MicrotransactionVoidchargedPolymorphingWand
 MicrotransactionWhiteBlinkandMirrorArrowEffect
 Mitchinson
@@ -171,6 +191,8 @@ patchdate
 poedb
 poeforum
 poelab
+ProjectileAttacksChanceToMaimBeastialMinionUnique__1
+ProjectileAttacksChanceToPoisonBeastialMinionUnique__1
 pypoe
 qarlnote
 Rainbowstrides
@@ -208,6 +230,7 @@ TALKPAGENAME
 Tani
 Tarke
 tbody
+thead
 TheDiabeetusKing
 thepapadan
 Thorneycroft

@@ -44,6 +44,7 @@ DEFAULTSORT
 DelevelBook
 desummon
 DevourlingSwarm
+Divcord
 DivinationCardAliviasGrace
 DivinationCardAtzirisArsenal
 DivinationCardDoedresMadness
@@ -143,6 +144,7 @@ MicrotransactionCultofApocalypseHood
 MicrotransactionCultofApocalypsePortraitFrame
 MicrotransactionFireandIceCloak
 MicrotransactionFireandIceWings
+MicrotransactionGodofThunderBodyArmour
 MicrotransactionGodofThunderFootprintsEffect
 MicrotransactionGodofThunderGloves
 MicrotransactionGodofThunderPortraitFrame

@@ -1,10 +1,13 @@
 accessdate
 AddedChaosDamageToAttacksBeastialMinionUnique__1
 AddedLightningDamagetoSpellsWhileUnarmedUniqueGlovesStr4
+AfflictionNotableMasterofFear
 AfflictionNotableWhispersofDeath
+AfflictionNotableWishforDeath_
 afterdate
 ailmentres_notable2763
 Alienware
+AllResistajcesUniqueStaff10
 altgem
 altquality
 Amarantha
@@ -33,6 +36,8 @@ categorytree
 colspan
 CONCAT
 console_skill_dont_chase
+ConvertPhysicaltoLightningUnique__1
+ConvertPhysicaltoLightningUnique__3
 cookiejar
 CriticalSrikeChanceUniqueSceptre7
 critting
@@ -48,8 +53,11 @@ Divcord
 DivinationCardAliviasGrace
 DivinationCardAtzirisArsenal
 DivinationCardDoedresMadness
+DivinationCardLantadorsLostLove
+DivinationCardLysahsRespite
 DivinationCardSambodhisVow
 DivinationCardSocietysRemorse
+DivinationCardTheArchmagesRightHand
 dmgeff
 DoedresTenureFated
 Dominusdemon
@@ -105,6 +113,7 @@ ignarsoll
 ililolili
 ilvls
 imagealt
+imgur
 includeonly
 IncreasedFireDamgeIfHitRecentlyUnique__1
 infocard
@@ -129,6 +138,7 @@ LocalCriticalStrikeChanceUniquSceptre10
 LocalIncreasedEvationRatingPercentUniqueBootsDex9
 lsth
 MalachaisSimulaFated
+MapMoreMonsterPackVarietyOlmecs_
 mathbb
 MaximumPowerandEnduranceChargesImplicitE1
 mbox
@@ -223,6 +233,7 @@ Sjatar
 skillbar
 Skyrim
 Slipperyjim
+SocketedemsHaveBloodMagicUniqueShieldStrInt2
 somesuch
 sortkey
 strjewel

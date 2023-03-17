@@ -263,6 +263,7 @@ vardefine
 VikingBossVinktarsSquare
 vinifera
 Viperesque
+wandatlas
 webm
 wikitable
 windzqt

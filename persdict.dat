@@ -12,6 +12,8 @@ Abberathine
 abberathine
 Abyssa
 abyssa
+Abyssals
+abyssals
 Abyssus
 abyssus
 Accessdate
@@ -49,7 +51,9 @@ aetheric
 Aetherwind
 aetherwind
 AffectedByPurityof
+AfflictionNotableMasterofFear
 AfflictionNotableWhispersofDeath
+AfflictionNotableWishforDeath_
 Afkoff
 afkoff
 Afterdate
@@ -124,6 +128,7 @@ Allflame
 allflame
 Alliston
 alliston
+AllResistajcesUniqueStaff10
 Aloris
 aloris
 Alsarus
@@ -1092,6 +1097,8 @@ Console_skill_dont_chase
 console_skill_dont_chase
 Conv
 conv
+ConvertPhysicaltoLightningUnique__1
+ConvertPhysicaltoLightningUnique__3
 Convocated
 convocated
 Cookiejar
@@ -1421,8 +1428,11 @@ divinarius
 DivinationCardAliviasGrace
 DivinationCardAtzirisArsenal
 DivinationCardDoedresMadness
+DivinationCardLantadorsLostLove
+DivinationCardLysahsRespite
 DivinationCardSambodhisVow
 DivinationCardSocietysRemorse
+DivinationCardTheArchmagesRightHand
 Divini
 divini
 Divinia
@@ -1679,6 +1689,8 @@ Endboss
 endboss
 Endbringer
 endbringer
+Endflatlist
+endflatlist
 Endur
 endur
 Enemies_taunted_by_your_warcies_are_intimidated
@@ -1942,6 +1954,8 @@ FlaskDispellsBurning1
 FlaskDispellsBurningUnique__1
 Flat
 flat
+Flatlist
+flatlist
 Fleetfoot
 fleetfoot
 Fleetfreak
@@ -2624,6 +2638,8 @@ Ilvls
 ilvls
 Imagealt
 imagealt
+Imgur
+imgur
 Imlua
 imlua
 Immortalis
@@ -3356,6 +3372,8 @@ Manatext
 manatext
 Manaweave
 manaweave
+MapDoryanisMachinariumDisplayUnique__1
+MapMoreMonsterPackVarietyOlmecs_
 Maracle
 maracle
 Marak
@@ -4934,6 +4952,7 @@ Snowforged
 snowforged
 Socketable
 socketable
+SocketedemsHaveBloodMagicUniqueShieldStrInt2
 Softcore
 softcore
 Softwareaudio
@@ -6068,6 +6087,8 @@ Waitforpreload
 waitforpreload
 Walkthrough
 walkthrough
+Wandatlas
+wandatlas
 Wandslinger
 wandslinger
 Warband

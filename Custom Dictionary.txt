@@ -668,6 +668,8 @@ Bloodgrip
 bloodgrip
 Bloodmagic
 bloodmagic
+Bloodnotch
+bloodnotch
 Bloodplay
 bloodplay
 Bloodpriest
@@ -4339,6 +4341,8 @@ Qarlnote
 qarlnote
 Qianga
 qianga
+Qiongqi
+qiongqi
 Qotra
 qotra
 Qotra's

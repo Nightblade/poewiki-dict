@@ -192,6 +192,8 @@ Aquathaumatic
 aquathaumatic
 Arach
 arach
+Arachnamagus
+arachnamagus
 Arachnomorph
 arachnomorph
 Arachnophage
@@ -396,6 +398,8 @@ Automagical
 automagical
 Automatable
 automatable
+Autonomir
+autonomir
 Autoreply
 autoreply
 Auxium
@@ -2985,6 +2989,8 @@ Klopek
 klopek
 Kloss
 kloss
+Knepha
+knepha
 Knightlord
 knightlord
 Knightmaster
@@ -3059,6 +3065,8 @@ Kul'gul
 kul'gul
 Kulemak
 kulemak
+Kun
+kun
 Kurai
 kurai
 Kurai's
@@ -3510,6 +3518,8 @@ Metacraft
 metacraft
 Metacrafting
 metacrafting
+Metallon
+metallon
 Metamod
 metamod
 Metamods

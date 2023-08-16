@@ -125,6 +125,8 @@ Alivia
 alivia
 Alkem
 alkem
+Allelopathy
+allelopathy
 Allflame
 allflame
 Alliston
@@ -172,6 +174,7 @@ Animalspirit
 animalspirit
 Annest
 annest
+AnnointOnly
 Anointable
 anointable
 Antalie
@@ -332,6 +335,7 @@ atalui
 Atazek
 atazek
 AtlasCruasderJudgeFadingNova
+AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
 Atmohua
 atmohua
@@ -440,6 +444,8 @@ Balah
 balah
 Balbala
 balbala
+Balefire
+balefire
 Baleh
 baleh
 Ballhooking
@@ -860,6 +866,8 @@ Brylla
 brylla
 Burtok
 burtok
+Busterw
+busterw
 Butsicles
 butsicles
 Bypassable
@@ -1317,6 +1325,8 @@ Deathmarked
 deathmarked
 Deathnotch
 deathnotch
+Deathwarden
+deathwarden
 Deatomisation
 deatomisation
 Deatomization
@@ -1886,6 +1896,8 @@ Findexplicit
 findexplicit
 Findimplicit
 findimplicit
+Fira
+fira
 FireballIncusionFire
 FireballIncusionLightning
 Fireborn
@@ -1908,6 +1920,8 @@ Firespout
 firespout
 Firestarter
 firestarter
+Firewalker
+firewalker
 Firstword
 firstword
 Fishies
@@ -1962,6 +1976,8 @@ Flameweaver
 flameweaver
 Flameweeper
 flameweeper
+Flamewood
+flamewood
 Flaric
 flaric
 Flarus
@@ -2052,6 +2068,8 @@ Frosal
 frosal
 Frosis
 frosis
+Frostbearer
+frostbearer
 Frostblink
 frostblink
 Frostblink's
@@ -2178,6 +2196,8 @@ Ggpk
 ggpk
 Ghasts
 ghasts
+Ghember
+ghember
 Ghorr
 ghorr
 Ghostfire
@@ -2509,6 +2529,8 @@ Hexproof
 hexproof
 Hextouch
 hextouch
+Hextouched
+hextouched
 Hexwarded
 hexwarded
 Hexwarding
@@ -2653,6 +2675,8 @@ Ignomon
 ignomon
 Ignorami
 ignorami
+Ikiaho
+ikiaho
 Ilevel
 ilevel
 Ilevels
@@ -2871,6 +2895,8 @@ Kadaris
 kadaris
 Kadavrus
 kadavrus
+Kahuturoa
+kahuturoa
 Kaikohuru
 kaikohuru
 Kalandra
@@ -2899,6 +2925,8 @@ Kaom
 kaom
 Kaom's
 kaom's
+Karlji
+karlji
 Kartarus
 kartarus
 Karui
@@ -3099,6 +3127,8 @@ Lakishu
 lakishu
 Lakishu's
 lakishu's
+Lancej
+lancej
 Landren
 landren
 Lani
@@ -3329,6 +3359,8 @@ M'gaska
 m'gaska
 M'uneh
 m'uneh
+Maata
+maata
 Machinarium
 machinarium
 Machinegun
@@ -3644,6 +3676,8 @@ Moonsorrow
 moonsorrow
 Moontouched
 moontouched
+Moonwarden
+moonwarden
 Moosh
 moosh
 Morgrants
@@ -3662,6 +3696,8 @@ Mortalbane
 mortalbane
 Mortalconviction
 mortalconviction
+Mortentc
+mortentc
 Mortimus
 mortimus
 Mortumus
@@ -4237,6 +4273,10 @@ Poelab
 poelab
 Poeninja
 poeninja
+Poep
+poep
+Poeplanner
+poeplanner
 Poesessid
 poesessid
 Poeskilltree
@@ -4477,6 +4517,8 @@ Reaver
 reaver
 Recalc
 recalc
+Recombinate
+recombinate
 Recombinator
 recombinator
 Recombinators
@@ -4491,6 +4533,8 @@ Redbeak
 redbeak
 Redblade
 redblade
+Redblades
+redblades
 Redlink
 redlink
 Redmane
@@ -4527,6 +4571,8 @@ Rehome
 rehome
 Rejuv
 rejuv
+Rejuve
+rejuve
 RejuvinationTotem
 Rek'tar
 rek'tar
@@ -4646,6 +4692,8 @@ Romira
 romira
 Romira's
 romira's
+Rongokurai
+rongokurai
 Roseus
 roseus
 Rotblood
@@ -4698,6 +4746,8 @@ Ryslatha
 ryslatha
 Ryslatha's
 ryslatha's
+Ryuukk
+ryuukk
 Sabatons
 sabatons
 Sacrato
@@ -5462,6 +5512,8 @@ Tavukai
 tavukai
 Tawatawa
 tawatawa
+Tawhanuku
+tawhanuku
 Tawhoa
 tawhoa
 Tawm'r
@@ -5574,6 +5626,8 @@ Tickboxes
 tickboxes
 Tidebreaker
 tidebreaker
+Tideshifter
+tideshifter
 Tikati
 tikati
 Tikiheme
@@ -5836,6 +5890,8 @@ Unfetch
 unfetch
 Unfetched
 unfetched
+Unflagged
+unflagged
 Unfound
 unfound
 Unfreezable
@@ -6191,6 +6247,8 @@ Warband
 warband
 Warbands
 warbands
+Warcaller
+warcaller
 Warchief
 warchief
 Warcried

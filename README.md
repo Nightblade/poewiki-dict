@@ -5,7 +5,7 @@ This repository provides spell-checker dictionaries for Firefox and Chrome, spec
 
 # Limitations
 
-The spell-checker dictionaries in this repository are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files.  By default, CSpell's spell-checker ignores words less than **four** characters long, and handles possessives (`'s`) correctly.  In contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) correctly.
+The spell-checker dictionaries in this repository are generated from [CSpell](https://www.github.com/streetsidesoftware/cspell) dictionary files; by default, CSpell ignores words less than **four** characters long, and handles possessives (`'s`) automatically.  By contrast, the spell-checkers in Firefox & Chrome ignore words less than **three** characters long, and do **not** handle possessives (`'s`) automatically.
 
 (Also, Firefox & Chrome are case-sensitive, but I have addressed this by adding each word twice with alternating capitalization, with the exception of ALLCAPS words.)
 
@@ -28,24 +28,24 @@ The spell-checker dictionaries in this repository are generated from [CSpell](ht
 	* Paste this into an Explorer window or equivalent.
 
 
-# Source
+# Source Files
 
 All `.txt` files listed below are `plaintext`, `UTF-8`, `LF`-`EOL`, with a single word per line.
 
-These files are all stored in the [pob-dict](https://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo under the [src](src) directory.
+These files are all stored in the [pob-dict](https://www.github.com/Nightblade/pob-dict) repository, except for `wiki-ignore-dict.txt` which is stored in this repo in the [src](src) directory.
 
 | Filename                       | Description
 | ------------------------------ | -----------
 | [poe-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/poe-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
 | [pob-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
 | [ignore-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/ignore-dict.txt) | PoB-specific-words to be ignored.
-| [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in cSpell's dictionaries.
+| [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
 | [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
 
 
 # Build details 
 
-Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source-files mentioned above are fetched, concatenated, sorted, processed as mentioned earlier, and the results are then automatically checked-in and committed if any changes are detected.
+Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source files are fetched, concatenated, sorted (unique), processed as mentioned earlier, and if any changes are detected the resulting files are automatically checked-in and committed to this repo.
 
 
 # License

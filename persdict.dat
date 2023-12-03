@@ -1,5 +1,7 @@
 A'alai
 a'alai
+A2adad
+a2adad
 Abaxoth
 abaxoth
 Abaxoth's
@@ -24,6 +26,8 @@ Accountname
 accountname
 Accuracydex
 accuracydex
+Accuracyint
+accuracyint
 Achievability
 achievability
 Achioc
@@ -768,6 +772,8 @@ Bootsatlasdexint
 bootsatlasdexint
 Borboss
 borboss
+Borisas
+borisas
 Borisbsv
 borisbsv
 Botting
@@ -870,6 +876,8 @@ Busterw
 busterw
 Butsicles
 butsicles
+Bxor
+bxor
 Bypassable
 bypassable
 Cabalist
@@ -1180,6 +1188,7 @@ Craicic
 craicic
 Crastus
 crastus
+CrazieJester
 Criticaldaggerdex
 criticaldaggerdex
 Criticals
@@ -1188,6 +1197,7 @@ CriticalSrikeChanceUniqueSceptre7
 Crits
 crits
 CritsDontAlways
+CritsOnYouDont
 Critting
 critting
 Crowstorm
@@ -1454,6 +1464,8 @@ Dismemberer
 dismemberer
 Dispellable
 dispellable
+Displayminionmonstertype
+displayminionmonstertype
 Display_abberaths_hooves
 display_abberaths_hooves
 Divcord
@@ -1493,6 +1505,8 @@ doedre
 Doedre's
 doedre's
 DoedresTenureFated
+Dogist
+dogist
 Dolmur
 dolmur
 Dominus
@@ -1538,6 +1552,8 @@ Draconides
 draconides
 Dragonbone
 dragonbone
+Dragonfang
+dragonfang
 Dragonfire
 dragonfire
 Dragonscale
@@ -2130,6 +2146,8 @@ Galhad
 galhad
 Galvano
 galvano
+Gamblesprint
+gamblesprint
 Gamemode
 gamemode
 GamepediaBook
@@ -2817,6 +2835,10 @@ Itemlevel
 itemlevel
 Ivniinvi
 ivniinvi
+Ixchel
+ixchel
+Ixchel's
+ixchel's
 Ixtolatl
 ixtolatl
 Izaro
@@ -2875,6 +2897,8 @@ Jozen
 jozen
 Jppianta
 jppianta
+Jsiebern
+jsiebern
 Juatalotli
 juatalotli
 Junglemare
@@ -3265,8 +3289,14 @@ Llyr
 llyr
 Lmperialus
 lmperialus
+Loadout
+loadout
+Loadouts
+loadouts
 LocalAddedPhyiscalDamageUnique
 LocalCriticalStrikeChanceUniquSceptre10
+Localidentity
+localidentity
 LocalIncreasedEvationRatingPercentUniqueBootsDex9
 Lochtonial
 lochtonial
@@ -3943,6 +3973,8 @@ Nowrap
 nowrap
 NPC
 NPCS
+Nrardin
+nrardin
 Nsis
 nsis
 Nubuck
@@ -3956,6 +3988,8 @@ nycta
 Nycta's
 nycta's
 NZDT
+Oaktec
+oaktec
 Oathbreaker
 oathbreaker
 Oathkeeper
@@ -4132,6 +4166,16 @@ Paradoxicas
 paradoxicas
 Parent_activiation_range
 parent_activiation_range
+Passiveoverridelimits
+passiveoverridelimits
+Passiveskilloverrides
+passiveskilloverrides
+Passiveskilloverridetypes
+passiveskilloverridetypes
+Passiveskilltattoos
+passiveskilltattoos
+Passiveskilltattootargetsets
+passiveskilltattootargetsets
 Pastebin
 pastebin
 Pastebinp
@@ -4325,10 +4369,14 @@ Prenamed
 prenamed
 Presskit
 presskit
+Prestack
+prestack
 Presynthesized
 presynthesized
 Priceasc
 priceasc
+Primalist
+primalist
 Primevals
 primevals
 Primordius
@@ -4925,6 +4973,8 @@ Shiversting
 shiversting
 Shivrul
 shivrul
+Shiyo
+shiyo
 Shockbg
 shockbg
 Shockbomb
@@ -5378,6 +5428,8 @@ Subprojectiles
 subprojectiles
 Subtables
 subtables
+Subtractem
+subtractem
 Sulphurspawn
 sulphurspawn
 Sumei
@@ -5429,6 +5481,8 @@ Sutrus
 sutrus
 Swiftbrand
 swiftbrand
+Swordstorm
+swordstorm
 Synthesised
 synthesised
 Synthete
@@ -5614,6 +5668,8 @@ Thunderskull
 thunderskull
 Thunderstrike
 thunderstrike
+Thundrous
+thundrous
 Tibbs
 tibbs
 Tibbs's
@@ -5664,6 +5720,10 @@ Titleparts
 titleparts
 Titucius
 titucius
+Tivorak
+tivorak
+Tmcrocker89
+tmcrocker89
 Tocright
 tocright
 Togglenochat
@@ -5690,6 +5750,7 @@ Toru
 toru
 Toruul
 toruul
+TOTALCOST
 Totemable
 totemable
 Totemified
@@ -5874,6 +5935,8 @@ Unconfirming
 unconfirming
 Uncursed
 uncursed
+Undamageable
+undamageable
 Undeath
 undeath
 Undercity
@@ -6038,6 +6101,8 @@ Valdo
 valdo
 Valign
 valign
+Vals
+vals
 Valyrium
 valyrium
 Vampiric

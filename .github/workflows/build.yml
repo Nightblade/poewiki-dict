@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
-name: 'Build'
+name: 'Build Dictionary Files'
 
 on:
   # push:
@@ -45,4 +44,4 @@ jobs:
     - name: Auto-Commit File
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Auto-Commit File
+        commit_message: Auto-Commit Dictionary Files

@@ -407,6 +407,8 @@ Autocrlf
 autocrlf
 Autoequip
 autoequip
+Autoexertion
+autoexertion
 Automagical
 automagical
 Automatable
@@ -543,6 +545,8 @@ Belatra
 belatra
 Belcer
 belcer
+Belltower
+belltower
 Bellum
 bellum
 Beltatlas
@@ -657,6 +661,10 @@ BlightofAtrophy
 BlightofContagion
 Blightraise
 blightraise
+Blightreach
+blightreach
+Blightspawn
+blightspawn
 Blightspeaker
 blightspeaker
 Blightwell
@@ -2928,6 +2936,8 @@ Kalguur
 kalguur
 Kalguuran
 kalguuran
+Kalguurans
+kalguurans
 Kalisa
 kalisa
 Kalisa's
@@ -2996,6 +3006,8 @@ Kineticism
 kineticism
 Kingsguard
 kingsguard
+Kingsmarch
+kingsmarch
 Kinslayer
 kinslayer
 Kintsugi
@@ -3386,6 +3398,8 @@ Magebane
 magebane
 Mageblood
 mageblood
+Magebloods
+magebloods
 Magebloom
 magebloom
 Mageguard
@@ -3754,6 +3768,8 @@ Myrae
 myrae
 Mysterial
 mysterial
+Mórrigan
+mórrigan
 Namelock
 namelock
 Namelocked
@@ -4802,6 +4818,8 @@ Screenshake
 screenshake
 Scrollspeed
 scrollspeed
+Scry
+scry
 Scrying
 scrying
 SDPS
@@ -4936,6 +4954,8 @@ Sinvicta
 sinvicta
 Sinvicta's
 sinvicta's
+Sione
+sione
 Siosa
 siosa
 Siosa's
@@ -5413,6 +5433,8 @@ Tacati
 tacati
 Tacocat
 tacocat
+Tagless
+tagless
 Tahi
 tahi
 Tahsin
@@ -5683,6 +5705,8 @@ transmutia
 Trapbuilder's
 trapbuilder's
 TrapGroundCasuticCloud
+Trapsetter
+trapsetter
 Trarthan
 trarthan
 Trarthus

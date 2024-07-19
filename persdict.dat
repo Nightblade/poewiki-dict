@@ -401,6 +401,8 @@ Aurumvorax
 aurumvorax
 Autoattack
 autoattack
+Autocast
+autocast
 Autocrlf
 autocrlf
 Autoequip
@@ -2039,6 +2041,8 @@ flockmate
 Fmbox
 fmbox
 FMOD
+Fmtlib
+fmtlib
 Foaga
 foaga
 FORCETOC
@@ -2321,6 +2325,8 @@ Grandmastery
 grandmastery
 Granitecrush
 granitecrush
+Grattus
+grattus
 Gravebind
 gravebind
 Graveblood
@@ -2725,6 +2731,8 @@ Incarnatis
 incarnatis
 Incentivising
 incentivising
+Incinerateof
+incinerateof
 Includeonly
 includeonly
 Incompletable
@@ -3211,6 +3219,8 @@ Libjpeg
 libjpeg
 Libooz
 libooz
+Libsodium
+libsodium
 Lich
 lich
 Liches
@@ -4238,6 +4248,8 @@ Pluspercent
 pluspercent
 Pobb
 pobb
+Pobbin
+pobbin
 Pobc
 pobc
 PoE
@@ -4343,6 +4355,8 @@ Pulseblood
 pulseblood
 Pulsebloods
 pulsebloods
+Pureftpd
+pureftpd
 Puresteel
 puresteel
 Puruna
@@ -4555,6 +4569,8 @@ Reroll
 reroll
 Rerolled
 rerolled
+Reservationwatcher
+reservationwatcher
 Resocketing
 resocketing
 Resourcelogcreate
@@ -4788,6 +4804,7 @@ Scrollspeed
 scrollspeed
 Scrying
 scrying
+SDPS
 Seaborn
 seaborn
 Seaglass
@@ -5638,6 +5655,8 @@ Topright
 topright
 Torchoak
 torchoak
+Tornadoof
+tornadoof
 Toru
 toru
 Toruul
@@ -6528,6 +6547,8 @@ Zorioc
 zorioc
 Zrevnur's
 zrevnur's
+Zverovich
+zverovich
 _atleast_
 _atleast_
 _atttached_

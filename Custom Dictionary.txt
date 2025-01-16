@@ -50,6 +50,8 @@ AddedChaosDamageToAttacksBeastialMinionUnique__1
 AddedLightningDamagetoSpellsWhileUnarmedUniqueGlovesStr4
 Adderstouch
 adderstouch
+Additionals
+additionals
 Adiyah
 adiyah
 Adiyah's
@@ -316,6 +318,8 @@ Arwyn
 arwyn
 Arzaak
 arzaak
+Asala
+asala
 AscendancyChieftan
 Asenath
 asenath
@@ -444,6 +448,8 @@ Axehorn
 axehorn
 Aylardex
 aylardex
+Azak
+azak
 Azala
 azala
 Azcapa
@@ -471,6 +477,8 @@ Backburner
 backburner
 Baeclast
 baeclast
+Bahlak
+bahlak
 Balabus
 balabus
 Balah
@@ -2207,6 +2215,8 @@ Frostspewing
 frostspewing
 Frostspout
 frostspout
+Frostwall
+frostwall
 Frostweaver
 frostweaver
 Frostwing
@@ -2466,6 +2476,8 @@ gravicius's
 GravicusMoltenShell
 Greaters
 greaters
+Greathammer
+greathammer
 Greatsword
 greatsword
 Greatswords
@@ -2885,6 +2897,8 @@ indigon
 Indx
 indx
 InfernalBlowof
+Infernalist
+infernalist
 Infernoclasp
 infernoclasp
 Infernomage
@@ -3224,6 +3238,8 @@ Konley
 konley
 Konu
 konu
+Kopec
+kopec
 Koralus
 koralus
 Korangi
@@ -4424,6 +4440,8 @@ Plaguebearer
 plaguebearer
 Plaguebringer
 plaguebringer
+Plaguebringers
+plaguebringers
 Plaguecrawler
 plaguecrawler
 Plaguefinger
@@ -4615,6 +4633,8 @@ Quals
 quals
 Quatl's
 quatl's
+Quecholi
+quecholi
 Quecholli
 quecholli
 Questline
@@ -4917,6 +4937,8 @@ Rshift
 rshift
 Rudiarius
 rudiarius
+Rudja
+rudja
 Rukuku
 rukuku
 Rulesets
@@ -5059,6 +5081,8 @@ Secutor
 secutor
 Seerix
 seerix
+Sekhamas
+sekhamas
 Sekhem
 sekhem
 Sekhema
@@ -5148,6 +5172,8 @@ Shockbg
 shockbg
 Shockbomb
 shockbomb
+Shockburst
+shockburst
 Shocknova
 shocknova
 Shockproofing
@@ -5182,6 +5208,8 @@ Silverbough
 silverbough
 Silverbranch
 silverbranch
+Silverfist's
+silverfist's
 Silverthorne
 silverthorne
 Silverwood
@@ -5280,6 +5308,8 @@ Slitherpinch
 slitherpinch
 Slitherskin
 slitherskin
+Slitherspitters
+slitherspitters
 Slivertongue
 slivertongue
 Smallcaps
@@ -6263,6 +6293,8 @@ Upgradability
 upgradability
 Uppercrusts
 uppercrusts
+Urnwalkers
+urnwalkers
 Uromoti
 uromoti
 Ursaling
@@ -6802,6 +6834,8 @@ Xoplotli
 xoplotli
 Xuatl
 xuatl
+Xyclucian
+xyclucian
 Y'ara'az
 y'ara'az
 Yaksha
@@ -6849,6 +6883,8 @@ Zahndethus
 zahndethus
 Zalatl
 zalatl
+Zalmarath
+zalmarath
 Zana
 zana
 Zana's

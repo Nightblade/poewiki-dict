@@ -30,6 +30,8 @@ Accuracydex
 accuracydex
 Accuracyint
 accuracyint
+Accurary
+accurary
 Achievability
 achievability
 Achioc
@@ -77,6 +79,8 @@ Afterdate
 afterdate
 Aggixx
 aggixx
+Aggorat
+aggorat
 Agiel
 agiel
 Agnar
@@ -813,6 +817,8 @@ Bonestalker
 bonestalker
 Bonestilts
 bonestilts
+Bonestorm
+bonestorm
 Bonewarped
 bonewarped
 Booba
@@ -1075,6 +1081,8 @@ Chainmail
 chainmail
 Chalybeous
 chalybeous
+Chaosbolt
+chaosbolt
 Chaosborn
 chaosborn
 Chaosresist
@@ -1153,6 +1161,8 @@ Citystalker
 citystalker
 Clayshaper
 clayshaper
+Clearfell
+clearfell
 Cleaveling
 cleaveling
 Clickables
@@ -1183,6 +1193,8 @@ Colspan
 colspan
 Combobox
 combobox
+Commandable
+commandable
 Commandline
 commandline
 Compulsor
@@ -1202,6 +1214,7 @@ Contribs
 contribs
 Conv
 conv
+ConvertPhysicalto
 ConvertPhysicaltoLightningUnique__1
 ConvertPhysicaltoLightningUnique__3
 Convocated
@@ -1322,6 +1335,7 @@ Daluatti
 daluatti
 Damagev
 damagev
+DamagevsArmourBrokenEnemies
 DamagevsNon
 Damoi
 damoi
@@ -1331,6 +1345,8 @@ Dannig
 dannig
 Dannig's
 dannig's
+Danse
+danse
 Darbel
 darbel
 Daresso
@@ -1481,6 +1497,8 @@ Dervishe
 dervishe
 Desecratable
 desecratable
+Deshar
+deshar
 Deshret
 deshret
 Deshret's
@@ -1491,6 +1509,7 @@ Despawn
 despawn
 Despawns
 despawns
+DestructiveLinkSkeletonBombadierMinion
 Desummon
 desummon
 Desummoned
@@ -1686,6 +1705,8 @@ Druggery
 druggery
 Dryback
 dryback
+Dualstring
+dualstring
 Dunkelhalt
 dunkelhalt
 Durationless
@@ -1756,6 +1777,8 @@ Eelskin
 eelskin
 Effectof
 effectof
+Effigial
+effigial
 Effigon
 effigon
 Egrin
@@ -1826,6 +1849,8 @@ Encephalophage
 encephalophage
 Encounterable
 encounterable
+Encumberance
+encumberance
 Endboss
 endboss
 Endbringer
@@ -2009,6 +2034,8 @@ FireballIncusionFire
 FireballIncusionLightning
 Firebeam
 firebeam
+Firebolt
+firebolt
 Fireborn
 fireborn
 Firebreath
@@ -2178,6 +2205,8 @@ Freidrich
 freidrich
 Frenzyhound
 frenzyhound
+Freythorn
+freythorn
 Friedl
 friedl
 Frosal
@@ -2205,6 +2234,8 @@ Frostfall
 frostfall
 Frostferno
 frostferno
+Frostfire
+frostfire
 Frostflower
 frostflower
 Frostguard
@@ -2423,6 +2454,8 @@ Goblinedge
 goblinedge
 Godslayer
 godslayer
+Goldcast
+goldcast
 Goldhoof
 goldhoof
 Goldrim
@@ -2474,10 +2507,14 @@ gravicius
 Gravicius's
 gravicius's
 GravicusMoltenShell
+Greatclub
+greatclub
 Greaters
 greaters
 Greathammer
 greathammer
+Greathelm
+greathelm
 Greatsword
 greatsword
 Greatswords
@@ -2747,6 +2784,8 @@ Hotfixed
 hotfixed
 Hotfixes
 hotfixes
+Hotswap
+hotswap
 Houndmaster
 houndmaster
 Hrimburn
@@ -3042,6 +3081,8 @@ Jikeji
 jikeji
 Jiquani
 jiquani
+Jiquanis
+jiquanis
 Jodin
 jodin
 Jonfé
@@ -3359,6 +3400,8 @@ Leatherbound
 leatherbound
 Leatherscale
 leatherscale
+Leeche
+leeche
 Leeched
 leeched
 Leftbutton
@@ -3452,6 +3495,8 @@ Lithomancy
 lithomancy
 Lithophysa
 lithophysa
+Lizardscale
+lizardscale
 Llyr
 llyr
 Lmperialus
@@ -3639,6 +3684,8 @@ Manatext
 manatext
 Manaweave
 manaweave
+Manchettes
+manchettes
 MapDoryanisMachinariumDisplayUnique__1
 MapMoreMonsterPackVarietyOlmecs_
 Maracle
@@ -3694,6 +3741,8 @@ maxarius
 Maxdepth
 maxdepth
 MaximumPowerandEnduranceChargesImplicitE1
+Maxroll
+maxroll
 Mazarine
 mazarine
 Mbox
@@ -3848,6 +3897,8 @@ Mokou
 mokou
 Mokou's
 mokou's
+Momnetum
+momnetum
 Mon'tregul
 mon'tregul
 Mon'tregul's
@@ -3912,6 +3963,8 @@ Mudflies
 mudflies
 Mult
 mult
+Multibase
+multibase
 Multicastable
 multicastable
 Multiclone
@@ -4112,6 +4165,8 @@ nomic's
 non-Vaal
 Nonmagical
 nonmagical
+Nonpathing
+nonpathing
 Nontradable
 nontradable
 Nonunique
@@ -4386,6 +4441,8 @@ Permyriad
 permyriad
 Pernach
 pernach
+Perp
+perp
 Perpetus
 perpetus
 Perquil
@@ -4464,6 +4521,8 @@ Playstyle
 playstyle
 Playstyles
 playstyles
+Playtest
+playtest
 Playtesting
 playtesting
 Playthrough
@@ -4501,6 +4560,8 @@ Poewiki
 poewiki
 Poignard
 poignard
+Poisonburst
+poisonburst
 Polaric
 polaric
 Polcirkeln
@@ -4527,6 +4588,8 @@ Postfields
 postfields
 Powertread
 powertread
+Prct
+prct
 Predecided
 predecided
 Preethi
@@ -4611,6 +4674,8 @@ Pyromancers
 pyromancers
 Pyromantic
 pyromantic
+Pyrophyte
+pyrophyte
 Pyroshock
 pyroshock
 Q'ura
@@ -4659,6 +4724,8 @@ Raethan
 raethan
 Rageblade
 rageblade
+Rageforged
+rageforged
 Ragestorm
 ragestorm
 Ragestorms
@@ -4732,6 +4799,8 @@ reave
 ReaveofRefraction
 Reaver
 reaver
+Reavers
+reavers
 Recalc
 recalc
 Recombinate
@@ -4799,6 +4868,8 @@ Reliquarian
 reliquarian
 Reliquarians
 reliquarians
+Remembrancing
+remembrancing
 Reminderstring
 reminderstring
 Renkarr
@@ -4859,6 +4930,8 @@ Rhexes
 rhexes
 Rhoa
 rhoa
+Rhoahide
+rhoahide
 Rhoas
 rhoas
 Rhodion
@@ -4891,6 +4964,8 @@ Ringmail
 ringmail
 Ringmaker
 ringmaker
+Ripwire
+ripwire
 Ritemaster
 ritemaster
 Riverways
@@ -5135,6 +5210,10 @@ Shambler
 shambler
 Shankgonne
 shankgonne
+Shapeshift
+shapeshift
+Shapeshifted
+shapeshifted
 Shardbound
 shardbound
 Shardcrown
@@ -5174,6 +5253,8 @@ Shockbomb
 shockbomb
 Shockburst
 shockburst
+Shockchain
+shockchain
 Shocknova
 shocknova
 Shockproofing
@@ -5182,6 +5263,8 @@ Shockwave
 shockwave
 Shockwaves
 shockwaves
+Shortbow
+shortbow
 Shortsword
 shortsword
 Showtitlebarname
@@ -5349,6 +5432,8 @@ Somesuch
 somesuch
 Someuser
 someuser
+Songworthy
+songworthy
 Sortkey
 sortkey
 Sothotep
@@ -5357,6 +5442,10 @@ Soulbinder
 soulbinder
 Soulbound
 soulbound
+Soulbreaker
+soulbreaker
+Soulcore
+soulcore
 Souleater
 souleater
 Souleye
@@ -5441,6 +5530,8 @@ Spinestorm
 spinestorm
 Spiritblade
 spiritblade
+Spiritbone
+spiritbone
 Spiritflicker
 spiritflicker
 Spiritskin
@@ -5501,6 +5592,8 @@ Statictt
 statictt
 Statlist
 statlist
+Statset
+statset
 Stealthed
 stealthed
 Steamapps
@@ -5515,6 +5608,8 @@ Steelscale
 steelscale
 Steelskin
 steelskin
+Steeltoe
+steeltoe
 Steelwood
 steelwood
 Steelworm
@@ -5607,6 +5702,8 @@ Stormstrider
 stormstrider
 Stormstruck
 stormstruck
+Stormsurge
+stormsurge
 Stormtouched
 stormtouched
 Stormwall
@@ -5637,6 +5734,7 @@ Strugglescream
 strugglescream
 Stunlocked
 stunlocked
+StunThresholdfromEnergyShield
 Sublimator
 sublimator
 Subprojectiles
@@ -6008,6 +6106,8 @@ trapbuilder's
 TrapGroundCasuticCloud
 Trapsetter
 trapsetter
+Traptool
+traptool
 Trarthan
 trarthan
 Trarthus
@@ -6225,7 +6325,11 @@ Unidentify
 unidentify
 Unignore
 unignore
+UniqueAilmentChanceRecieved1
 UniqueCosprisMalice
+UniqueFlaskOverhealToGuard1
+UniqueManaScarificeToAllies1
+UniqueModifyableWhileCorrupted1
 Uniques
 uniques
 UniqueVolkuursGuidanceIgniteDurationFinal
@@ -6287,6 +6391,8 @@ Unwalkable
 unwalkable
 Unwavered
 unwavered
+Unwithered
+unwithered
 Upconversion
 upconversion
 Upgradability
@@ -6303,6 +6409,7 @@ Ursus
 ursus
 Uruk
 uruk
+UsableWhileShapeshifted
 Useragent
 useragent
 Userprofile
@@ -6582,6 +6689,8 @@ Wargraves
 wargraves
 Warhammer
 warhammer
+Warhorn
+warhorn
 Warmaker
 warmaker
 Warmaster
@@ -6610,12 +6719,16 @@ Waystone
 waystone
 Waystones
 waystones
+Weap
+weap
 Weaponclasses
 weaponclasses
 Weaponcraft
 weaponcraft
 Weaponmaster
 weaponmaster
+Weaponset
+weaponset
 Weaponsmithing
 weaponsmithing
 Webm
@@ -6688,6 +6801,8 @@ Wildmen
 wildmen
 Wildrunner
 wildrunner
+Wildshards
+wildshards
 Wildslash
 wildslash
 Wildwrap

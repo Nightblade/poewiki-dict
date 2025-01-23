@@ -5339,6 +5339,8 @@ Skillpopup
 skillpopup
 Skilltree
 skilltree
+Skill_charge_matery_skill_speed
+skill_charge_matery_skill_speed
 Skitterbot
 skitterbot
 Skitterbots

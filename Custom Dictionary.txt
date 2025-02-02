@@ -5648,6 +5648,8 @@ Stormbind
 stormbind
 Stormbinder
 stormbinder
+Stormblade
+stormblade
 Stormblast
 stormblast
 Stormblood
@@ -6153,6 +6155,8 @@ Trix
 trix
 Trolltimber
 trolltimber
+Trompetin17
+trompetin17
 Trypanon
 trypanon
 Trypophobia
@@ -6827,6 +6831,8 @@ Windshriek
 windshriek
 Windzqt
 windzqt
+Winepath
+winepath
 Winterbite
 winterbite
 Winterbringer

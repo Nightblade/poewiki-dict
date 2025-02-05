@@ -1912,6 +1912,8 @@ Eutychus
 eutychus
 Evergrasping
 evergrasping
+Evertree
+evertree
 Eviscerator
 eviscerator
 Evocata
@@ -4205,6 +4207,8 @@ Nuro
 nuro
 Nuro's
 nuro's
+Nvtt
+nvtt
 Nycta
 nycta
 Nycta's
@@ -4228,6 +4232,8 @@ Obern's
 obern's
 Obscurantis
 obscurantis
+Octoparasite
+octoparasite
 Offhandbg
 offhandbg
 Ohne
@@ -6245,6 +6251,8 @@ Ubers
 ubers
 Uhtred
 uhtred
+Uiimages
+uiimages
 Ulaman
 ulaman
 Ulaman's
@@ -6799,6 +6807,8 @@ Widowmaker
 widowmaker
 Widowsilk
 widowsilk
+Wieldable
+wieldable
 Wikitable
 wikitable
 Wildlands
@@ -7014,6 +7024,8 @@ Zana's
 zana's
 Zantipi
 zantipi
+Zarokh
+zarokh
 ZealotsOathIfHaventBeenHitRecentlyUnique
 Zeel
 zeel

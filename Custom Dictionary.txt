@@ -761,6 +761,8 @@ Bootsatlasdexint
 bootsatlasdexint
 Borboss
 borboss
+Borealwood
+borealwood
 Botting
 botting
 Boulderback
@@ -1030,6 +1032,8 @@ Chimeral
 chimeral
 Chimerals
 chimerals
+Chimerascale
+chimerascale
 Chitus
 chitus
 Chiyou
@@ -2389,6 +2393,8 @@ Harimal
 harimal
 Harpyon
 harpyon
+Harpyskin
+harpyskin
 Harrytrumanprimate
 harrytrumanprimate
 Hartlin
@@ -3809,6 +3815,8 @@ Nightwane
 nightwane
 Nightwatch
 nightwatch
+Nightweave
+nightweave
 Nightwind
 nightwind
 Niko
@@ -4207,6 +4215,10 @@ Poeurl
 poeurl
 Poewiki
 poewiki
+Poignard
+poignard
+Poisonberry
+poisonberry
 Poisonburst
 poisonburst
 Polaric
@@ -4567,6 +4579,8 @@ Romira's
 romira's
 Rongokurai
 rongokurai
+Rosethorn
+rosethorn
 Roseus
 roseus
 Rotblood

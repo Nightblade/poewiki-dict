@@ -1,10 +1,9 @@
 name: 'Build Dictionary Files'
 
 on:
-   push:
-     branches:
-       - main
    workflow_dispatch:
+   schedule:
+      - cron: "5 17 * * 1"
 
 jobs:
   build:

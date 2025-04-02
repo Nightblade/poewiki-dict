@@ -12,6 +12,8 @@ Abberath's
 abberath's
 Abberathine
 abberathine
+ABTTAzmeri
+ABTTAzmeriBasaliskShroud
 Abyssa
 abyssa
 Abyssals
@@ -240,6 +242,7 @@ Arduk
 arduk
 Ardura
 ardura
+AreaofEffect
 Arenalord
 arenalord
 Argient
@@ -335,6 +338,7 @@ Atalui
 atalui
 Atazek
 atazek
+AtlasCruasderJudgeFadingNova
 Atmohua
 atmohua
 Atsak's
@@ -420,6 +424,7 @@ Azmerian
 azmerian
 Azmerians
 azmerians
+AzmeriBasiliskDecapThrust
 Azyran
 azyran
 Baeclast
@@ -585,10 +590,14 @@ Bladebarrier
 bladebarrier
 Bladeblast
 bladeblast
+BladeBlastof
 Bladedancer
 bladedancer
 Bladefall
 bladefall
+Bladefallof
+bladefallof
+BladeFlurryof
 Bladeguard
 bladeguard
 Blademaster
@@ -619,6 +628,8 @@ Blightheart
 blightheart
 Blightmaster
 blightmaster
+BlightofAtrophy
+BlightofContagion
 Blightraise
 blightraise
 Blightreach
@@ -641,6 +652,7 @@ Blisterlords
 blisterlords
 Blockable
 blockable
+BlockedDamageDoesntBypassES
 Blonca
 blonca
 Bloodback
@@ -1164,6 +1176,8 @@ criticals
 CriticalSrikeChanceUniqueSceptre7
 Crits
 crits
+CritsDontAlways
+CritsOnYouDont
 Critting
 critting
 Crossblade
@@ -1202,6 +1216,7 @@ Cybil
 cybil
 Cybil's
 cybil's
+CycloneofTumult
 Cystcaller
 cystcaller
 Daevata's
@@ -1210,6 +1225,7 @@ Daluatti
 daluatti
 Damagev
 damagev
+DamagevsArmourBrokenEnemies
 Damoi
 damoi
 Danai
@@ -1258,8 +1274,12 @@ Darontos
 darontos
 Darsia
 darsia
+Dat
+dat
 Datacards
 datacards
+Datc
+datc
 Dav'nalleous
 dav'nalleous
 Davaro
@@ -1358,6 +1378,7 @@ Desmarais
 desmarais
 Despawns
 despawns
+DestructiveLinkSkeletonBombadierMinion
 Desummon
 desummon
 Deton
@@ -1409,6 +1430,7 @@ DivinationCardLysahsRespite
 DivinationCardSambodhisVow
 DivinationCardSocietysRemorse
 DivinationCardTheArchmagesRightHand
+DivineIreof
 Divini
 divini
 Divinia
@@ -1442,6 +1464,7 @@ Dominusdemon
 dominusdemon
 Donotdisturb
 donotdisturb
+dontSplitEvade
 Doomcast
 doomcast
 Doomcrow
@@ -1466,6 +1489,7 @@ Doryani's
 doryani's
 Doryanis
 doryanis
+DoubleStrikeof
 Dovecaller
 dovecaller
 Doven
@@ -1742,6 +1766,8 @@ exertable
 ExileCon
 Exilings
 exilings
+Exsanguinateof
+exsanguinateof
 Extantia
 extantia
 Eyepecker
@@ -1830,6 +1856,8 @@ Findexplicit
 findexplicit
 Findimplicit
 findimplicit
+FireballIncusionFire
+FireballIncusionLightning
 Firebeam
 firebeam
 Firebolt
@@ -1864,6 +1892,7 @@ Firstword
 firstword
 Fishscale
 fishscale
+FistofWar
 Fixmyhelmet
 fixmyhelmet
 Flamebearer
@@ -1874,6 +1903,8 @@ Flamebeast
 flamebeast
 Flameblast
 flameblast
+Flameblastof
+flameblastof
 Flameblasts
 flameblasts
 Flameblood
@@ -2337,6 +2368,7 @@ Gruthkul's
 gruthkul's
 Gryffon
 gryffon
+GSRoboHoundBellyDamage
 Guatelitzi
 guatelitzi
 Guildmate
@@ -2687,6 +2719,8 @@ Incaminion
 incaminion
 Incarnatis
 incarnatis
+Incinerateof
+incinerateof
 Includeonly
 includeonly
 IncreasedFireDamgeIfHitRecentlyUnique__1
@@ -2708,6 +2742,8 @@ Infocard
 infocard
 Infractem
 infractem
+Ingame
+ingame
 Inkley
 inkley
 Inkskin
@@ -2726,6 +2762,8 @@ Intellectus
 intellectus
 Intelli
 intelli
+Intimidating_cry_empowerd_attacks_deal_double
+intimidating_cry_empowerd_attacks_deal_double
 IntimidayingCryTriggered
 Intjewel
 intjewel
@@ -2823,6 +2861,8 @@ Jddogg
 jddogg
 Jeinei
 jeinei
+Jewelcircle
+jewelcircle
 Jik'shah
 jik'shah
 Jikeji
@@ -3193,6 +3233,7 @@ Lightkeeper
 lightkeeper
 Lightn
 lightn
+LightningArrowof
 Lightningstorm
 lightningstorm
 Lightpoacher
@@ -3242,6 +3283,8 @@ Locomancer
 locomancer
 Locustcaller
 locustcaller
+Logik
+logik
 Lokan
 lokan
 Longtooth
@@ -3850,6 +3893,8 @@ nomic's
 non-Vaal
 Nonmagical
 nonmagical
+Nonpathing
+nonpathing
 Nontradable
 nontradable
 Nonunique
@@ -4067,6 +4112,8 @@ Paradoxicas
 paradoxicas
 Parent_activiation_range
 parent_activiation_range
+Passiveskillscreen
+passiveskillscreen
 Pastebin
 pastebin
 Pastebinp
@@ -4087,6 +4134,7 @@ Pauascale
 pauascale
 Pecoraro
 pecoraro
+PenanceBrandof
 Perandus
 perandus
 Perc
@@ -4097,6 +4145,8 @@ Perenniality
 perenniality
 Perepiteia
 perepiteia
+Perforateof
+perforateof
 Perkin
 perkin
 Perma
@@ -4105,6 +4155,8 @@ Permyriad
 permyriad
 Pernach
 pernach
+Perp
+perp
 Perpetus
 perpetus
 Perquil
@@ -4189,6 +4241,8 @@ Plumespitter
 plumespitter
 Pobb
 pobb
+Pobbin
+pobbin
 Pobc
 pobc
 PoE
@@ -4344,6 +4398,8 @@ Quickblood
 quickblood
 Quickslip
 quickslip
+Quickstick
+quickstick
 Quintoon
 quintoon
 Quipolatl
@@ -4422,6 +4478,7 @@ Realmshaper
 realmshaper
 Reave
 reave
+ReaveofRefraction
 Reaver
 reaver
 Reavers
@@ -4468,6 +4525,7 @@ Rejuv
 rejuv
 Rejuve
 rejuve
+RejuvinationTotem
 Rek'tar
 rek'tar
 Relicguard
@@ -4476,6 +4534,8 @@ Reliquarian
 reliquarian
 Reliquarians
 reliquarians
+Remembrancing
+remembrancing
 Reminderstring
 reminderstring
 Renkarr
@@ -4486,6 +4546,8 @@ Rentry
 rentry
 Repudion
 repudion
+Reservationwatcher
+reservationwatcher
 Resourcelogcreate
 resourcelogcreate
 Resourcelogmainresolve
@@ -4714,12 +4776,14 @@ Scissorblades
 scissorblades
 Scorchbg
 scorchbg
+ScorchingRayofImmolation
 Scourgelord
 scourgelord
 Screenshake
 screenshake
 Scry
 scry
+SDPS
 Seaborn
 seaborn
 Seaglass
@@ -4788,6 +4852,8 @@ Shankgonne
 shankgonne
 Shapeshift
 shapeshift
+Shapeshifted
+shapeshifted
 Shardbound
 shardbound
 Shardcrown
@@ -4900,12 +4966,16 @@ Skictis
 skictis
 Skillbar
 skillbar
+Skillgem
+skillgem
 Skillpoints
 skillpoints
 Skillpopup
 skillpopup
 Skilltree
 skilltree
+Skill_charge_matery_skill_speed
+skill_charge_matery_skill_speed
 Skincrawlers
 skincrawlers
 Skitterbot
@@ -5295,14 +5365,19 @@ Strongarm
 strongarm
 Strugglescream
 strugglescream
+StunThresholdfromEnergyShield
 Subtables
 subtables
 Sulphurspawn
 sulphurspawn
 Sumei
 sumei
+SummonBeastialRhoa
+SummonBeastialSnake
+SummonBeastialUrsa
 Summone
 summone
+SumonRagingSpiritMelee
 Sunblast
 sunblast
 Sunbleached
@@ -5325,6 +5400,12 @@ Supertypes
 supertypes
 Supplymaster
 supplymaster
+SupportEncumberancePlayer
+Supporttriggerelementalspellonblock
+supporttriggerelementalspellonblock
+Supporttriggerfirespellonhit
+supporttriggerfirespellonhit
+SupportUniqueCosprisMaliceColdSpellsCastOn
 Surfcaster
 surfcaster
 Surgebinders
@@ -5420,6 +5501,7 @@ Tawhoa
 tawhoa
 Tawm'r
 tawm'r
+TBHellscapePaleLightningBoltSpammableLeft
 Tbody
 tbody
 Tcid
@@ -5585,6 +5667,8 @@ Torchoak
 torchoak
 Tormenter
 tormenter
+Tornadoof
+tornadoof
 Toru
 toru
 Toruul
@@ -5641,6 +5725,7 @@ Triggerbot's
 triggerbot's
 Triggerbots
 triggerbots
+triggeredByCospris
 Trinian
 trinian
 Tripyxis
@@ -5791,9 +5876,16 @@ Unhearable
 unhearable
 Unided
 unided
+UniqueAilmentChanceRecieved1
+UniqueCosprisMalice
+UniqueFlaskOverhealToGuard1
+UniqueManaScarificeToAllies1
+UniqueModifyableWhileCorrupted1
 Uniques
 uniques
 UniqueVolkuursGuidanceIgniteDurationFinal
+Unique_cospris_malice_cold_spells_triggered
+unique_cospris_malice_cold_spells_triggered
 Unmen
 unmen
 Unshaping
@@ -6228,6 +6320,8 @@ Windshriek
 windshriek
 Windzqt
 windzqt
+Winepath
+winepath
 Winterbite
 winterbite
 Winterbringer
@@ -6438,5 +6532,13 @@ Zrevnur's
 zrevnur's
 Zverovich
 zverovich
+_accurary_
+_accurary_
 _atleast_
 _atleast_
+_atttached_
+_atttached_
+_ingite
+_ingite
+_momnetum_
+_momnetum_

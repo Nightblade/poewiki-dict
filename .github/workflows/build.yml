@@ -8,12 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env: 
+    env:
       CONFIG_URL:  https://raw.githubusercontent.com/Nightblade/pob-dict/main
     steps:
 
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@v4
       with:
         ref: ${{ github.head_ref }}
 
@@ -33,12 +33,12 @@ jobs:
             } else {
               print $0
             }
-          } 
+          }
         }' > persdict.dat
         cp persdict.dat "Custom Dictionary.txt"
         rm poe-dict.txt pob-dict.txt ignore-dict.txt extra-en-dict.txt
 
     - name: Auto-Commit File
-      uses: stefanzweifel/git-auto-commit-action@master
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Auto-Commit Dictionary Files

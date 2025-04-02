@@ -21,11 +21,12 @@ jobs:
       run: |
         curl --silent --show-error --parallel --remote-name-all \
             ${{ env.CONFIG_URL }}/poe-dict.txt \
-            ${{ env.CONFIG_URL }}/extra-en-dict.txt
+            ${{ env.CONFIG_URL }}/extra-en-dict.txt \
+            ${{ env.CONFIG_URL }}/pob-dict.txt
 
     - name: Process Files
       run: |
-        sort -fu src/wiki-ignore-dict.txt poe-dict.txt extra-en-dict.txt | awk '{
+        sort -fu src/wiki-ignore-dict.txt poe-dict.txt extra-en-dict.txt pob-dict.txt | awk '{
           if ($0 !~ /^$/) {
             if ($0 !~ /^..*[A-Z]+/) {
               printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2))
@@ -36,7 +37,7 @@ jobs:
           }
         }' > persdict.dat
         cp persdict.dat "Custom Dictionary.txt"
-        rm poe-dict.txt extra-en-dict.txt
+        rm poe-dict.txt extra-en-dict.txt pob-dict.txt
 
     - name: Auto-Commit File
       uses: stefanzweifel/git-auto-commit-action@v5

@@ -12,7 +12,7 @@ The spell-checker dictionaries in this repository are generated from [CSpell](ht
 # Installation
 
 ## Firefox
-* Download [persdict.dat](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/persdict.dat) 
+* Download [persdict.dat](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/persdict.dat)
 * Move/copy it to your `profile directory`.
 	To quickly find your profile directory:
 	* Type `about:support` into the browser's address bar,
@@ -38,6 +38,8 @@ These files are all stored in the [pob-dict](https://www.github.com/Nightblade/p
 | ------------------------------ | -----------
 | [poe-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/poe-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
 | [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
+| [pob-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
+
 | [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
 
 

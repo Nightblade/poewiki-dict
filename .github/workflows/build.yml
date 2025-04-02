@@ -1,9 +1,9 @@
 name: 'Build Dictionary Files'
 
 on:
-   workflow_dispatch:
-   schedule:
-      - cron: "5 17 * * 1"
+  workflow_dispatch:
+  schedule:
+    - cron: "5 17 * * 1"
 
 jobs:
   build:
@@ -20,19 +20,17 @@ jobs:
     - name: Fetch Additional Files
       run: |
         curl --silent --show-error --parallel --remote-name-all \
-            ${{ env.CONFIG_URL }}/pob-dict.txt \
             ${{ env.CONFIG_URL }}/poe-dict.txt \
-            ${{ env.CONFIG_URL }}/ignore-dict.txt \
             ${{ env.CONFIG_URL }}/extra-en-dict.txt
 
     - name: Process Files
       run: |
-        sort -fu src/wiki-ignore-dict.txt pob-dict.txt poe-dict.txt ignore-dict.txt extra-en-dict.txt | awk '{ 
+        sort -fu src/wiki-ignore-dict.txt pob-dict.txt poe-dict.txt ignore-dict.txt extra-en-dict.txt | awk '{
           if ($0 !~ /^$/) {
-            if ($0 !~ /^..*[A-Z]+/) { 
-              printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2)) 
-              print tolower($0) 
-            } else { 
+            if ($0 !~ /^..*[A-Z]+/) {
+              printf "%c%s\n", toupper(substr($0,1,1)), tolower(substr($0,2))
+              print tolower($0)
+            } else {
               print $0
             }
           } 

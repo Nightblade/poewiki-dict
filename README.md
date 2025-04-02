@@ -13,15 +13,15 @@ The spell-checker dictionaries in this repository are generated from [CSpell](ht
 
 ## Firefox
 * Download [persdict.dat](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/persdict.dat) 
-* Move/copy it to your `profile directory`.  
+* Move/copy it to your `profile directory`.
 	To quickly find your profile directory:
 	* Type `about:support` into the browser's address bar,
 	* Next to `Profile Folder`, click `Open Folder`.
 
 ## Chrome
-* Download [Custom Dictionary.txt](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/Custom%20Dictionary.txt) 
+* Download [Custom Dictionary.txt](https://raw.githubusercontent.com/Nightblade/poewiki-dict/main/Custom%20Dictionary.txt)
 * Move/copy it to your `profile directory`.
-* Delete any existing `Custom Dictionary.txt.backup` file.  (This is to stop Chrome trying to restore this file and overwriting your new file).  
+* Delete any existing `Custom Dictionary.txt.backup` file.  (This is to stop Chrome trying to restore this file and overwriting your new file).
 	To find your profile directory:
 	* Type `about:version` into the browser's address bar,
 	* Copy the text next to `Profile Path:`,
@@ -37,15 +37,13 @@ These files are all stored in the [pob-dict](https://www.github.com/Nightblade/p
 | Filename                       | Description
 | ------------------------------ | -----------
 | [poe-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/poe-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
-| [pob-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/pob-dict.txt) | Words used in the PoB source-code and associated files.
-| [ignore-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/ignore-dict.txt) | PoB-specific-words to be ignored.
 | [extra-en-dict.txt](https://github.com/Nightblade/pob-dict/blob/main/extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
 | [wiki-ignore-dict.txt](src/wiki-ignore-dict.txt) | `poewiki.net`-specific words to be ignored.
 
 
-# Build details 
+# Build details
 
-Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source files are fetched, concatenated, sorted (unique), processed as mentioned earlier, and if any changes are detected the resulting files are automatically checked-in and committed to this repo.
+Whenever the [build](https://github.com/Nightblade/poewiki-dict/actions/workflows/build.yml) workflow is run, the source files are fetched, concatenated, sorted (unique), processed as mentioned above, and if any changes are detected the resulting files are automatically checked-in and committed.
 
 
 # License

@@ -447,6 +447,8 @@ Bameth
 bameth
 Banebrand
 banebrand
+Bangled
+bangled
 Baracus
 baracus
 Baran
@@ -596,6 +598,8 @@ bladefall
 Bladefallof
 bladefallof
 BladeFlurryof
+Bladeguard
+bladeguard
 Blademaster
 blademaster
 Blademistress
@@ -897,6 +901,8 @@ Calaf
 calaf
 Calderus
 calderus
+Calescent
+calescent
 Calgyra's
 calgyra's
 Calibric
@@ -1174,6 +1180,8 @@ CritsDontAlways
 CritsOnYouDont
 Critting
 critting
+Crossblade
+crossblade
 Crowstorm
 crowstorm
 Crushclaw
@@ -1200,6 +1208,8 @@ CultofDarknessPet
 Curr
 curr
 CURRENTYEAR
+Cursespeaker's
+cursespeaker's
 Cwdt
 cwdt
 Cybil
@@ -1337,6 +1347,8 @@ Deidbellow
 deidbellow
 Dekhara
 dekhara
+Dekharan
+dekharan
 DelevelBook
 Dementophobia
 dementophobia
@@ -1544,6 +1556,8 @@ Dryback
 dryback
 Dualstring
 dualstring
+Dunerunner
+dunerunner
 Dunkelhalt
 dunkelhalt
 Duskblight
@@ -1745,6 +1759,8 @@ Exartze
 exartze
 Excellis
 excellis
+Execratus
+execratus
 Exertable
 exertable
 ExileCon
@@ -2187,6 +2203,8 @@ Glaciator
 glaciator
 Glacio
 glacio
+Gladiatoral
+gladiatoral
 Gladius
 gladius
 Glargarryn
@@ -2245,6 +2263,10 @@ Goldrim
 goldrim
 Goldshaper
 goldshaper
+Goldwork
+goldwork
+Goldworked
+goldworked
 Goldwyrm
 goldwyrm
 Golemsblood
@@ -2290,12 +2312,18 @@ gravicius's
 GravicusMoltenShell
 Greataxe
 greataxe
+Greatblade
+greatblade
+Greatbow
+greatbow
 Greatclub
 greatclub
 Greathammer
 greathammer
 Greathelm
 greathelm
+Greatmace
+greatmace
 Greatsword
 greatsword
 Greatswords
@@ -2351,6 +2379,8 @@ Guraq
 guraq
 Gururu
 gururu
+Gutspike
+gutspike
 Gwayne
 gwayne
 Gwennen
@@ -2385,6 +2415,8 @@ Handfinger
 handfinger
 Hapihapi
 hapihapi
+Hardleather
+hardleather
 Hargan
 hargan
 Hargan's
@@ -2436,6 +2468,8 @@ Headwrap
 headwrap
 Heartbound
 heartbound
+Heartcarver
+heartcarver
 Heartpierce
 heartpierce
 Heartseeker
@@ -2473,6 +2507,8 @@ Hephaeus
 hephaeus
 Heraldof
 heraldof
+Heraldric
+heraldric
 Heretech
 heretech
 Heroicspirit
@@ -2755,6 +2791,10 @@ Irasha's
 irasha's
 Irongrasp
 irongrasp
+Ironhead
+ironhead
+Ironmail
+ironmail
 Ironpoint
 ironpoint
 Ironride
@@ -3127,6 +3167,8 @@ Leapslam
 leapslam
 Leatherbound
 leatherbound
+Leatherplate
+leatherplate
 Leatherscale
 leatherscale
 Legionstride
@@ -3490,12 +3532,16 @@ Meritarus
 meritarus
 Merveil
 merveil
+Messer
+messer
 Metacraft
 metacraft
 Metacrafting
 metacrafting
 Metallon
 metallon
+Metalworked
+metalworked
 Metamod
 metamod
 Metamorph
@@ -3980,6 +4026,8 @@ Oriathian
 oriathian
 Oriathians
 oriathians
+Orichalcum
+orichalcum
 Ormud
 ormud
 Orolath
@@ -4082,6 +4130,8 @@ Patua
 patua
 Paua
 paua
+Pauascale
+pauascale
 Pecoraro
 pecoraro
 PenanceBrandof
@@ -4346,6 +4396,8 @@ Quetzling
 quetzling
 Quickblood
 quickblood
+Quickslip
+quickslip
 Quickstick
 quickstick
 Quintoon
@@ -4455,6 +4507,8 @@ Reduct
 reduct
 Reefbane
 reefbane
+Reefsteel
+reefsteel
 Refimprove
 refimprove
 Reflist
@@ -4674,6 +4728,8 @@ Sandspitters
 sandspitters
 Sandstrider
 sandstrider
+Sandsworn
+sandsworn
 Sandwhipper
 sandwhipper
 Sandworn
@@ -4746,6 +4802,8 @@ Sekhem
 sekhem
 Sekhema
 sekhema
+Sekheman
+sekheman
 Sekhemas
 sekhemas
 Selectchar
@@ -4872,6 +4930,8 @@ Silverbough
 silverbough
 Silverbranch
 silverbranch
+Silverbuckled
+silverbuckled
 Silverfist's
 silverfist's
 Silverthorne
@@ -4944,6 +5004,8 @@ Skyborn
 skyborn
 Skycaller
 skycaller
+Skycrown
+skycrown
 Skyfire
 skyfire
 Skyforth
@@ -4966,6 +5028,8 @@ Slideup
 slideup
 Slipperyjim
 slipperyjim
+Slipstrike
+slipstrike
 Slitherpinch
 slitherpinch
 Slitherskin
@@ -4978,6 +5042,8 @@ Smita
 smita
 Snakepit
 snakepit
+Snakewood
+snakewood
 Snowblind
 snowblind
 Snowcaller
@@ -5085,6 +5151,8 @@ Spidersilk
 spidersilk
 Spikeback
 spikeback
+Spikeward
+spikeward
 Spinebreaker
 spinebreaker
 Spinecrack
@@ -5129,6 +5197,8 @@ Springleaf
 springleaf
 Stabby
 stabby
+Staghorn
+staghorn
 Stamatis
 stamatis
 Stantinus
@@ -5161,6 +5231,8 @@ Steampowered
 steampowered
 Steelchaw
 steelchaw
+Steelmail
+steelmail
 Steelpoint
 steelpoint
 Steelscale
@@ -5350,6 +5422,8 @@ Svalinn
 svalinn
 Swiftbrand
 swiftbrand
+Swiftstalker
+swiftstalker
 Swordstorm
 swordstorm
 Synthete
@@ -5533,6 +5607,8 @@ Ticaba
 ticaba
 Tidebreaker
 tidebreaker
+Tideseer
+tideseer
 Tideshifter
 tideshifter
 Tikati
@@ -5627,6 +5703,8 @@ Treants
 treants
 Treefingers
 treefingers
+Treerunner
+treerunner
 Treetab
 treetab
 Trenchtimbre
@@ -5764,6 +5842,8 @@ Unalloc
 unalloc
 Unallocating
 unallocating
+Unblockable
+unblockable
 Unbuffed
 unbuffed
 Unbug
@@ -6278,6 +6358,8 @@ Wolfpack
 wolfpack
 Wolfpack's
 wolfpack's
+Wolfskin
+wolfskin
 Wolpertinger
 wolpertinger
 Wolven

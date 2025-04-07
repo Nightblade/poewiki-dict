@@ -310,6 +310,8 @@ asenath's
 AsenathsMarkFated
 Asha
 asha
+Ashar
+ashar
 Ashbark
 ashbark
 Ashblessed
@@ -482,6 +484,8 @@ Basetypes
 basetypes
 Base_onlsaught_on_hit
 base_onlsaught_on_hit
+Battershout
+battershout
 Battlecharger
 battlecharger
 Battlehaste
@@ -544,6 +548,8 @@ Betucia
 betucia
 Bex
 bex
+Bijouborne
+bijouborne
 Bin'aia
 bin'aia
 Bino
@@ -779,6 +785,8 @@ Braindead
 braindead
 Braineater
 braineater
+Brakka
+brakka
 Brambleback
 brambleback
 Bramblejack
@@ -994,6 +1002,8 @@ Chainbreaker
 chainbreaker
 Chainmail
 chainmail
+Chainsting
+chainsting
 Chalybeous
 chalybeous
 Chaosbolt
@@ -1123,6 +1133,8 @@ Cooldown
 cooldown
 Cooldowns
 cooldowns
+Coolheaded
+coolheaded
 Coolus
 coolus
 Coralito
@@ -1208,6 +1220,8 @@ CultofDarknessPet
 Curr
 curr
 CURRENTYEAR
+Cursecarver
+cursecarver
 Cursespeaker's
 cursespeaker's
 Cwdt
@@ -1296,6 +1310,8 @@ Deathflutter
 deathflutter
 Deathmage
 deathmage
+Deathmarch
+deathmarch
 Deathmark
 deathmark
 Deathmarked
@@ -1412,6 +1428,10 @@ Dionadair
 dionadair
 Direblade
 direblade
+Direstrike
+direstrike
+Diretusk
+diretusk
 Dirigeant
 dirigeant
 Dismemberer
@@ -1929,6 +1949,8 @@ Flamelord
 flamelord
 Flamelords
 flamelords
+Flamepierce
+flamepierce
 Flamescale
 flamescale
 Flamesight
@@ -2023,6 +2045,8 @@ Freezebg
 freezebg
 Freezebolt
 freezebolt
+Freezefork
+freezefork
 Freidrich
 freidrich
 Frenzyhound
@@ -2081,6 +2105,8 @@ fullname
 FULLPAGENAME
 Funcs
 funcs
+Fungalreaver
+fungalreaver
 Furia
 furia
 Furty
@@ -2099,6 +2125,8 @@ Galhad
 galhad
 Galvano
 galvano
+Gambleshot
+gambleshot
 Gamblesprint
 gamblesprint
 Gamemode
@@ -2158,6 +2186,8 @@ Geofri
 geofri
 Geofri's
 geofri's
+Geonor
+geonor
 Gepl
 gepl
 Getaccountname
@@ -2330,6 +2360,8 @@ Greatswords
 greatswords
 Greatwolf
 greatwolf
+Greatwood
+greatwood
 Greedtrap
 greedtrap
 Greengate
@@ -2354,6 +2386,8 @@ Grigor's
 grigor's
 Grimgrasp
 grimgrasp
+Grimhaven
+grimhaven
 Grindy
 grindy
 Groundslam
@@ -2393,6 +2427,8 @@ Hadrey
 hadrey
 Haemocombustion
 haemocombustion
+Haemocrystals
+haemocrystals
 Haemomancer
 haemomancer
 Haewark
@@ -2403,6 +2439,8 @@ Hailrake
 hailrake
 Haki
 haki
+Halani
+halani
 Haliotis
 haliotis
 Hammerblows
@@ -2492,6 +2530,8 @@ Helial
 helial
 Hellbringer
 hellbringer
+Hellhound
+hellhound
 Hellscape
 hellscape
 HellscapeSkeletonStagbandit
@@ -2513,6 +2553,8 @@ Heretech
 heretech
 Heroicspirit
 heroicspirit
+Heroum
+heroum
 Herules
 herules
 Hetzapal
@@ -2837,6 +2879,8 @@ Izaro's
 izaro's
 Izioc
 izioc
+Jadecaster
+jadecaster
 Jaesyn
 jaesyn
 Jaetai
@@ -2953,6 +2997,8 @@ Kennard
 kennard
 Keth
 keth
+Ketzuli
+ketzuli
 Keyblade
 keyblade
 Khor
@@ -3609,6 +3655,7 @@ Minionbuff
 minionbuff
 Miniondamage
 miniondamage
+MinionsAreUndamagable
 Mirageblast
 mirageblast
 Mirebough
@@ -4270,6 +4317,8 @@ Poignard
 poignard
 Poisonberry
 poisonberry
+Poisonbloom
+poisonbloom
 Poisonburst
 poisonburst
 Polaric
@@ -4400,12 +4449,16 @@ Quickslip
 quickslip
 Quickstick
 quickstick
+Quillburst
+quillburst
 Quintoon
 quintoon
 Quipolatl
 quipolatl
 Raethan
 raethan
+Rafiq
+rafiq
 Rageblade
 rageblade
 Rageforged
@@ -4450,6 +4503,8 @@ Rashkaldor
 rashkaldor
 Rashkaldor's
 rashkaldor's
+Rathbreaker
+rathbreaker
 Rathorn
 rathorn
 Rathpith
@@ -4610,6 +4665,8 @@ Ringmail
 ringmail
 Ringmaker
 ringmaker
+Riona
+riona
 Ripwire
 ripwire
 Ritemaster
@@ -4702,6 +4759,8 @@ Sabatons
 sabatons
 Sacrato
 sacrato
+Sacrosanctum
+sacrosanctum
 Sadima
 sadima
 Sadima's
@@ -4714,6 +4773,8 @@ Saffell's
 saffell's
 Sagari
 sagari
+Saitha
+saitha
 Sallazzang
 sallazzang
 Sambodhi
@@ -4736,6 +4797,8 @@ Sandworn
 sandworn
 Sanguimancer
 sanguimancer
+Sanguimancy
+sanguimancy
 Sanguis
 sanguis
 Santoni
@@ -4876,6 +4939,7 @@ Shieldbearer
 shieldbearer
 Shieldblock
 shieldblock
+ShieldInsteadofLife
 Shimmeron
 shimmeron
 Shivershell
@@ -5115,10 +5179,14 @@ Soulwrest
 soulwrest
 Southswing
 southswing
+Spaghettification
+spaghettification
 Sparkcaller
 sparkcaller
 Sparkfist
 sparkfist
+Spearfield
+spearfield
 Spectred
 spectred
 Specularity
@@ -5255,6 +5323,8 @@ Stipecrawler
 stipecrawler
 Stonebeak
 stonebeak
+Stoneclad
+stoneclad
 Stonefist
 stonefist
 Stonegaze
@@ -5297,6 +5367,8 @@ Stormcaller
 stormcaller
 Stormcell
 stormcell
+Stormchain
+stormchain
 Stormcharged
 stormcharged
 Stormcharger
@@ -5401,6 +5473,7 @@ supertypes
 Supplymaster
 supplymaster
 SupportEncumberancePlayer
+SupportReveberatePlayer
 Supporttriggerelementalspellonblock
 supporttriggerelementalspellonblock
 Supporttriggerfirespellonhit
@@ -5457,6 +5530,8 @@ Tane
 tane
 Tane's
 tane's
+Tangletongue
+tangletongue
 Tangmazu
 tangmazu
 Tangzx
@@ -5569,6 +5644,8 @@ Thornmaw
 thornmaw
 Thornrunner
 thornrunner
+Thornskin
+thornskin
 Thornweaver
 thornweaver
 Thornwolf
@@ -5637,6 +5714,8 @@ Tipua
 tipua
 Tirn
 tirn
+Titanblood
+titanblood
 Titanian
 titanian
 Titanicmight
@@ -5881,6 +5960,7 @@ UniqueCosprisMalice
 UniqueFlaskOverhealToGuard1
 UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
+UniqueNonherent
 Uniques
 uniques
 UniqueVolkuursGuidanceIgniteDurationFinal
@@ -6003,6 +6083,8 @@ Ventor
 ventor
 Ventor's
 ventor's
+Verglas
+verglas
 Veritania
 veritania
 Verusi
@@ -6150,6 +6232,8 @@ Vuln
 vuln
 Waikoama
 waikoama
+Waistgate
+waistgate
 Waitforpreload
 waitforpreload
 Walkthrough
@@ -6505,6 +6589,8 @@ Zana's
 zana's
 Zantipi
 zantipi
+Zarka
+zarka
 Zarokh
 zarokh
 ZealotsOathIfHaventBeenHitRecentlyUnique

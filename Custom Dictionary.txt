@@ -1397,6 +1397,8 @@ despawns
 DestructiveLinkSkeletonBombadierMinion
 Desummon
 desummon
+Desync
+desync
 Deton
 deton
 Devoto
@@ -2033,6 +2035,8 @@ Forgekeeper
 forgekeeper
 Forgemaster
 forgemaster
+Formshifter
+formshifter
 Foxfly
 foxfly
 Foxhide
@@ -2164,6 +2168,8 @@ Gehennix
 gehennix
 Geis
 geis
+Gemcrust
+gemcrust
 Gemcutter
 gemcutter
 Gemcutter's
@@ -2265,8 +2271,12 @@ Gloomglut
 gloomglut
 Gloomgut
 gloomgut
+Glovesatlasdex
+glovesatlasdex
 Glovesatlasint
 glovesatlasint
+Glovesatlasstr
+glovesatlasstr
 Glovesatlasstrint
 glovesatlasstrint
 Glowswarm
@@ -2717,6 +2727,8 @@ If_havent_blocked
 if_havent_blocked
 Igna
 igna
+Ignagduk
+ignagduk
 Ignarsoll
 ignarsoll
 Igniferis
@@ -4455,6 +4467,8 @@ Quintoon
 quintoon
 Quipolatl
 quipolatl
+Quiveratlas
+quiveratlas
 Raethan
 raethan
 Rafiq
@@ -4469,6 +4483,8 @@ Ragestorms
 ragestorms
 Raihara
 raihara
+Railgun
+railgun
 Rainbowstride
 rainbowstride
 Rainbowstrides
@@ -4609,6 +4625,10 @@ Resourcelogmainresolve
 resourcelogmainresolve
 Resourcelogslowresolve
 resourcelogslowresolve
+Respawn
+respawn
+Respawned
+respawned
 Respec
 respec
 Restartlessly
@@ -5548,6 +5568,8 @@ Tapuna
 tapuna
 Tarcus
 tarcus
+Targetable
+targetable
 Tarke
 tarke
 Tarkleigh
@@ -5881,6 +5903,8 @@ Twomace
 twomace
 Twomelee
 twomelee
+Twostonering
+twostonering
 Twosword
 twosword
 Twyzel

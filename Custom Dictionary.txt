@@ -1894,6 +1894,8 @@ Fireflower
 fireflower
 Firefury
 firefury
+Firehose
+firehose
 Firemage
 firemage
 Firemages
@@ -6654,3 +6656,5 @@ _ingite
 _ingite
 _momnetum_
 _momnetum_
+_ominion
+_ominion

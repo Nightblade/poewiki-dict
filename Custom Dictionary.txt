@@ -2323,6 +2323,8 @@ Goregirdle
 goregirdle
 Gorgol
 gorgol
+Gorian
+gorian
 Goroshi
 goroshi
 Gorulis
@@ -4771,6 +4773,8 @@ Runesmithed
 runesmithed
 Runesmithing
 runesmithing
+Rustbowl
+rustbowl
 Ruthlessfilter
 ruthlessfilter
 Ryslatha

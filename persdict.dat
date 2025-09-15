@@ -449,6 +449,8 @@ Aventail
 aventail
 Axehorn
 axehorn
+Axewielder
+axewielder
 Aylardex
 aylardex
 Azak
@@ -490,6 +492,8 @@ Baleh
 baleh
 Ballhooking
 ballhooking
+Ballistified
+ballistified
 Balus
 balus
 Bameth
@@ -713,6 +717,8 @@ Blightwell
 blightwell
 Blinkflame
 blinkflame
+Blisterboil
+blisterboil
 Blisterclaw
 blisterclaw
 Blisterfruit
@@ -911,6 +917,8 @@ Brinerot
 brinerot
 Brinespawn
 brinespawn
+Brinesplitter
+brinesplitter
 Briney
 briney
 Briskwrap
@@ -1097,6 +1105,8 @@ Chainsting
 chainsting
 Chalybeous
 chalybeous
+Channeler
+channeler
 Chaosbolt
 chaosbolt
 Chaosborn
@@ -1655,6 +1665,8 @@ Dragonfire
 dragonfire
 Dragonscale
 dragonscale
+Draiocht
+draiocht
 Drakeling
 drakeling
 Drakeskin
@@ -2045,6 +2057,8 @@ Fireborn
 fireborn
 Firebreath
 firebreath
+Firebreather
+firebreather
 Firebuzz
 firebuzz
 Fireflower
@@ -2721,6 +2735,8 @@ Headerfunction
 headerfunction
 Headstaver
 headstaver
+Headtaker
+headtaker
 Headwrap
 headwrap
 Heartbound
@@ -2768,6 +2784,8 @@ Hematophagy
 hematophagy
 Hemmingsworth
 hemmingsworth
+Hengestones
+hengestones
 Hephaeus
 hephaeus
 Heraldof
@@ -2858,6 +2876,8 @@ Hookhorror
 hookhorror
 Hopeshredder
 hopeshredder
+Hornbearer
+hornbearer
 Horticrafted
 horticrafted
 Horticrafting
@@ -3018,6 +3038,8 @@ Indx
 indx
 Infernalist
 infernalist
+Infernalists
+infernalists
 Infernoclasp
 infernoclasp
 Infernomage
@@ -3127,6 +3149,8 @@ Izioc
 izioc
 Jadecaster
 jadecaster
+Jado
+jado
 Jaesyn
 jaesyn
 Jaetai
@@ -3155,6 +3179,8 @@ Jddogg
 jddogg
 Jeinei
 jeinei
+Jellycrab
+jellycrab
 Jewelcircle
 jewelcircle
 Jik'shah
@@ -3201,6 +3227,8 @@ Kahuturoa
 kahuturoa
 Kaikohuru
 kaikohuru
+Kaimana
+kaimana
 Kalandra
 kalandra
 Kalandra's
@@ -3231,6 +3259,8 @@ Kamasa
 kamasa
 Kamasan
 kamasan
+Kanu
+kanu
 Kaom
 kaom
 Kaom's
@@ -3618,6 +3648,8 @@ Longtooth
 longtooth
 Lootfilter
 lootfilter
+Lorandis
+lorandis
 Loratta
 loratta
 Lordofthedead
@@ -3685,10 +3717,14 @@ M'uneh
 m'uneh
 Maata
 maata
+Maceman
+maceman
 Machinarium
 machinarium
 Macrotaen
 macrotaen
+Madox
+madox
 Maelström
 maelström
 Maelströms
@@ -3778,6 +3814,8 @@ Manchettes
 manchettes
 Manoki
 manoki
+Manshrike
+manshrike
 Mantaray
 mantaray
 MapDoryanisMachinariumDisplayUnique__1
@@ -3820,6 +3858,8 @@ Matchstring
 matchstring
 Mathbb
 mathbb
+Matiki
+matiki
 Matryoshka
 matryoshka
 Matsya
@@ -4052,6 +4092,7 @@ MovementVeolcityUniqueBodyDex6
 MovementVeolcityUniqueBootsDex4
 Movespeed
 movespeed
+MPSTwilightSorcerorFireball
 Mult
 mult
 Multicastable
@@ -4313,6 +4354,8 @@ Oathkeeper
 oathkeeper
 Oathofthe
 oathofthe
+Oathsworn
+oathsworn
 Oba
 oba
 Oba's
@@ -4495,6 +4538,8 @@ Parent_activiation_range
 parent_activiation_range
 Passiveskillscreen
 passiveskillscreen
+Passiveskillscreenjewelcircle
+passiveskillscreenjewelcircle
 Pastebin
 pastebin
 Pastebinp
@@ -4578,6 +4623,8 @@ Pikerivet
 pikerivet
 Pileah
 pileah
+Pillarcrusher
+pillarcrusher
 Pirasha
 pirasha
 Piratebane
@@ -4606,6 +4653,8 @@ Plaguemaw's
 plaguemaw's
 Plagueretch
 plagueretch
+Plaguespreader
+plaguespreader
 Plaguewing
 plaguewing
 Platemail
@@ -4698,6 +4747,8 @@ Primordius
 primordius
 Prismweave
 prismweave
+Proboscite
+proboscite
 Proclar
 proclar
 Progenesis
@@ -4842,6 +4893,8 @@ Ralakesh's
 ralakesh's
 Ramako
 ramako
+Rangeen
+rangeen
 Rania
 rania
 Raphina
@@ -4982,6 +5035,8 @@ Respawn
 respawn
 Respawned
 respawned
+Respawning
+respawning
 Respec
 respec
 Restartlessly
@@ -5046,6 +5101,8 @@ Riona
 riona
 Ripwire
 ripwire
+Risu
+risu
 Ritemaster
 ritemaster
 Riverhold
@@ -5102,6 +5159,8 @@ Rudja
 rudja
 Rugosa
 rugosa
+Ruhaki
+ruhaki
 Rukuku
 rukuku
 Rumblemarch
@@ -5390,6 +5449,8 @@ Shocknova
 shocknova
 Shockproofing
 shockproofing
+Shockwarden
+shockwarden
 Shockwave
 shockwave
 Shockwaves
@@ -5508,6 +5569,8 @@ Skullhead
 skullhead
 Skullslinger
 skullslinger
+Skulltop
+skulltop
 Skyborn
 skyborn
 Skycaller
@@ -5639,6 +5702,8 @@ Sparkcaller
 sparkcaller
 Sparkfist
 sparkfist
+Spearbearer
+spearbearer
 Spearfield
 spearfield
 Spearthrower
@@ -5687,6 +5752,8 @@ Spinecrack
 spinecrack
 Spinecruncher
 spinecruncher
+Spinefish
+spinefish
 Spinefuse
 spinefuse
 Spinehail
@@ -5979,6 +6046,8 @@ Syvora
 syvora
 Szathmáry
 szathmáry
+Tabana's
+tabana's
 Tablerow
 tablerow
 Tabna's
@@ -6030,6 +6099,8 @@ Tarcus
 tarcus
 Targetable
 targetable
+Tarhulk
+tarhulk
 Tarke
 tarke
 Tarkleigh
@@ -6073,6 +6144,7 @@ Tbody
 tbody
 Tcid
 tcid
+TCTwilghtOrderSoldierCharge
 Tecrod
 tecrod
 Tecrod's
@@ -6190,6 +6262,8 @@ Ticaba
 ticaba
 Tidebreaker
 tidebreaker
+Tidecrasher
+tidecrasher
 Tideseer
 tideseer
 Tideshifter
@@ -6252,6 +6326,8 @@ Tonumber
 tonumber
 Topotante
 topotante
+Torbik
+torbik
 Torchoak
 torchoak
 Tormenter
@@ -6319,6 +6395,8 @@ triggerbot's
 Triggerbots
 triggerbots
 triggeredByCospris
+Triggerer
+triggerer
 Trinian
 trinian
 Tripyxis
@@ -6379,6 +6457,10 @@ Turmfalke
 turmfalke
 Turong
 turong
+Tuskbearer
+tuskbearer
+Tuskbeast
+tuskbeast
 Tvalue
 tvalue
 Tvalues
@@ -6617,6 +6699,8 @@ Vendigo
 vendigo
 Venenum
 venenum
+Vengewing
+vengewing
 Venmur
 venmur
 Venopuncture
@@ -6660,6 +6744,8 @@ Vilenta's
 vilenta's
 Vilentas
 vilentas
+Vilespit
+vilespit
 Vilislatha
 vilislatha
 Vincenti
@@ -6820,6 +6906,8 @@ Wardbreaker
 wardbreaker
 Wardog
 wardog
+Wardrum
+wardrum
 Wargraves
 wargraves
 Warhammer
@@ -6874,6 +6962,8 @@ Webweaver
 webweaver
 Welakath
 welakath
+Wellsprites
+wellsprites
 Wellwing
 wellwing
 Welp
@@ -6990,6 +7080,8 @@ Wiraq
 wiraq
 Wiraqucha
 wiraqucha
+Wisewoman
+wisewoman
 Witchbane
 witchbane
 Witchfire
@@ -7132,6 +7224,8 @@ Ynda
 ynda
 Ynda's
 ynda's
+Yoon
+yoon
 Yorishi
 yorishi
 YouTube

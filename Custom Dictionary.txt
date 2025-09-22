@@ -7062,6 +7062,8 @@ Winepath
 winepath
 Winterbite
 winterbite
+Winterblast
+winterblast
 Winterbringer
 winterbringer
 Winterclaw

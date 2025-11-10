@@ -770,6 +770,8 @@ Bloodgrin
 bloodgrin
 Bloodgrip
 bloodgrip
+Bloodhunger
+bloodhunger
 Bloodmagic
 bloodmagic
 Bloodnotch
@@ -925,7 +927,8 @@ Breathstealer
 breathstealer
 Brektov
 brektov
-BrequelGrafts
+Brequel
+brequel
 Briarpatch
 briarpatch
 Brightbeak
@@ -1044,6 +1047,8 @@ cameria's
 Candlemass
 candlemass
 CannnotHaveNonAnimatedMinionsUnique
+Carapaced
+carapaced
 Cardbeard
 cardbeard
 Carian
@@ -1138,6 +1143,8 @@ Chaosweaver
 chaosweaver
 Charan
 charan
+CharmEnchange
+CharmUnaffectedby
 Chatbox
 chatbox
 Chayula
@@ -1191,6 +1198,8 @@ Chrometouched
 chrometouched
 Chronomancer
 chronomancer
+Chronomancy
+chronomancy
 Chronophage
 chronophage
 Chunklet
@@ -1801,6 +1810,8 @@ Eartheater
 eartheater
 Earthshatter
 earthshatter
+Earthshattering
+earthshattering
 Eber
 eber
 Eber's
@@ -1970,6 +1981,8 @@ Ethercraft
 ethercraft
 Eutychus
 eutychus
+Everburning
+everburning
 Evergrasping
 evergrasping
 Evertree
@@ -1997,6 +2010,7 @@ exertable
 ExileCon
 Exilings
 exilings
+ExposureonHit
 Exsanguinateof
 exsanguinateof
 Extantia
@@ -2170,6 +2184,8 @@ Flamelords
 flamelords
 Flamepierce
 flamepierce
+Flameplating
+flameplating
 Flamescale
 flamescale
 Flamesight
@@ -2309,6 +2325,8 @@ Frostbolts
 frostbolts
 Frostborn
 frostborn
+Frostbound
+frostbound
 Frostbreath
 frostbreath
 Frostburn
@@ -2581,6 +2599,8 @@ Gowor
 gowor
 Gozen
 gozen
+Graftblood
+graftblood
 Grandmastery
 grandmastery
 Granitecrush
@@ -2906,6 +2926,8 @@ Hitboxes
 hitboxes
 Hitting_unqiue
 hitting_unqiue
+Hiveborn
+hiveborn
 Hoghunt
 hoghunt
 Hogm
@@ -3868,6 +3890,8 @@ Mancer
 mancer
 Manchettes
 manchettes
+Maniacism
+maniacism
 Manoki
 manoki
 Manshrike
@@ -4073,6 +4097,8 @@ Misclicks
 misclicks
 Mishne
 mishne
+Mistborn
+mistborn
 Mistwalker
 mistwalker
 Mistwall
@@ -4829,6 +4855,8 @@ Projectilespeed
 projectilespeed
 Prolif
 prolif
+Propeling
+propeling
 Protoguard
 protoguard
 Protovaal
@@ -5549,6 +5577,8 @@ Sidhebreath
 sidhebreath
 Siegebreaker
 siegebreaker
+Siezing
+siezing
 Sigbert
 sigbert
 Silkweave
@@ -5665,6 +5695,8 @@ Slavedriver's
 slavedriver's
 Slavemaster
 slavemaster
+Sleetbound
+sleetbound
 Slidedown
 slidedown
 Slideup
@@ -5800,6 +5832,8 @@ Spellcasting
 spellcasting
 Spellcraft
 spellcraft
+Spelleweaving
+spelleweaving
 Spellmaster
 spellmaster
 Spellslinger
@@ -6994,6 +7028,7 @@ Warcries
 warcries
 Warcry
 warcry
+WarcyProjectiles
 Wardbreaker
 wardbreaker
 Wardog
@@ -7208,6 +7243,8 @@ Wolvenhold
 wolvenhold
 Wombgift
 wombgift
+Wombgifts
+wombgifts
 Wondertrap
 wondertrap
 Wonderwalker

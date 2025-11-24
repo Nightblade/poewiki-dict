@@ -2351,6 +2351,8 @@ Frostwall
 frostwall
 Frostweaver
 frostweaver
+Frostwhirl
+frostwhirl
 Frostwing
 frostwing
 Fulcent
@@ -2473,6 +2475,8 @@ Ghostfire
 ghostfire
 Ghostflame
 ghostflame
+Ghostfuse
+ghostfuse
 Ghostings
 ghostings
 Ghostmarch
@@ -3034,6 +3038,8 @@ Icestorms
 icestorms
 Icetomb
 icetomb
+Icewalker
+icewalker
 Iceweaver
 iceweaver
 Ichimonji
@@ -3305,6 +3311,8 @@ Kalandra
 kalandra
 Kalandra's
 kalandra's
+Kalandras
+kalandras
 Kalguur
 kalguur
 Kalguuran
@@ -6641,6 +6649,8 @@ Unalloc
 unalloc
 Unallocating
 unallocating
+Unanointed
+unanointed
 Unbating
 unbating
 Unblockable
@@ -7462,3 +7472,5 @@ _ominion
 _ominion
 _onhit_
 _onhit_
+_otherwordly_
+_otherwordly_

@@ -627,6 +627,10 @@ Betucia
 betucia
 Bex
 bex
+Bhatair's
+bhatair's
+Bhatairs
+bhatairs
 Bijouborne
 bijouborne
 Bin'aia
@@ -671,6 +675,8 @@ Blackstar
 blackstar
 Blacksteel
 blacksteel
+Blackstrider
+blackstrider
 Bladeback
 bladeback
 Bladebarrier
@@ -1206,14 +1212,20 @@ Chunklet
 chunklet
 Ciergan
 ciergan
+Cinderbark
+cinderbark
 Cinderswallow
 cinderswallow
 Cinquedea
 cinquedea
 Cintiq
 cintiq
+Cirel
+cirel
 Cirel's
 cirel's
+Cirels
+cirels
 Citaqualotl
 citaqualotl
 Citystalker
@@ -1315,6 +1327,8 @@ Cracklecreep
 cracklecreep
 Craftable
 craftable
+Cragbreaker
+cragbreaker
 Cragfall
 cragfall
 Craghead
@@ -1889,6 +1903,8 @@ Elreon's
 elreon's
 Elswyth
 elswyth
+Elvara
+elvara
 Elzarah
 elzarah
 Emanant
@@ -1944,6 +1960,8 @@ Entrailhome
 entrailhome
 Eoin
 eoin
+Eonyr's
+eonyr's
 EOUTOFMEMORY
 Ephij
 ephij
@@ -2081,6 +2099,8 @@ Fearsting
 fearsting
 Feastbind
 feastbind
+Feathersteel
+feathersteel
 Feathersteps
 feathersteps
 Felbog
@@ -2684,6 +2704,8 @@ Grimgrasp
 grimgrasp
 Grimhaven
 grimhaven
+Grimhold
+grimhold
 Grindy
 grindy
 Grold
@@ -2705,6 +2727,8 @@ gryffon
 GSRoboHoundBellyDamage
 Guatelitzi
 guatelitzi
+Guatelitzis
+guatelitzis
 Guildmate
 guildmate
 Guildmates
@@ -2745,6 +2769,8 @@ Haki
 haki
 Halani
 halani
+Halfsword
+halfsword
 Haliotis
 haliotis
 Hammerblows
@@ -2803,6 +2829,8 @@ Haviri
 haviri
 Hayoxi
 hayoxi
+Hayoxis
+hayoxis
 Hazarat
 hazarat
 Headcrusher
@@ -2841,6 +2869,10 @@ Heist_equipment_counterthaumaturge
 heist_equipment_counterthaumaturge
 Heist_equipment_trapdisarmament
 heist_equipment_trapdisarmament
+Helbrym
+helbrym
+Helbrym's
+helbrym's
 Heldra
 heldra
 Helial
@@ -3018,6 +3050,8 @@ hyrri's
 HyrrisBiteFated
 Hyseria
 hyseria
+Hysseg's
+hysseg's
 Hysteriagate
 hysteriagate
 Iamnewhere
@@ -3157,6 +3191,8 @@ intimidating_cry_empowerd_attacks_deal_double
 IntimidayingCryTriggered
 Intjewel
 intjewel
+Intricade
+intricade
 Inua
 inua
 Invari
@@ -3367,6 +3403,10 @@ Kastov
 kastov
 Keita
 keita
+Kelari
+kelari
+Kelari's
+kelari's
 Kennard
 kennard
 Keth
@@ -3379,6 +3419,8 @@ Khari
 khari
 Khatal
 khatal
+Khatals
+khatals
 Khor
 khor
 Khronos
@@ -4158,6 +4200,10 @@ Moosh
 moosh
 Mordhau
 mordhau
+Morgana's
+morgana's
+Morganas
+morganas
 Morgrants
 morgrants
 Mori
@@ -4277,6 +4323,8 @@ Navali's
 navali's
 Navbox
 navbox
+Navira
+navira
 Nbsp
 nbsp
 Ndash
@@ -4478,6 +4526,10 @@ Ohne
 ohne
 Oidx
 oidx
+Oisins
+oisins
+Oisín's
+oisín's
 Olesya
 olesya
 Olesya's
@@ -5319,6 +5371,8 @@ Rustlord
 rustlord
 Ruthlessfilter
 ruthlessfilter
+Ruzhan
+ruzhan
 Ryslatha
 ryslatha
 Ryslatha's
@@ -5681,6 +5735,8 @@ Skullbreaker
 skullbreaker
 Skullcracking
 skullcracking
+Skullcrusher
+skullcrusher
 Skullhead
 skullhead
 Skullslinger
@@ -6231,6 +6287,8 @@ Tarkleigh's
 tarkleigh's
 Tarollo
 tarollo
+Tarth
+tarth
 Taruk
 taruk
 Tasalian
@@ -6239,6 +6297,8 @@ Tasalio
 tasalio
 Tasalio's
 tasalio's
+Tasalios
+tasalios
 Tasgul
 tasgul
 Tasuni
@@ -6807,6 +6867,8 @@ Vanth
 vanth
 Varakath
 varakath
+Varashta
+varashta
 Varashta's
 varashta's
 Varashtas
@@ -6986,6 +7048,8 @@ Voll's
 voll's
 Voltaxic
 voltaxic
+Voltfang
+voltfang
 Vorana
 vorana
 Vorana's
@@ -7337,6 +7401,8 @@ Xesht
 xesht
 Xibaqua
 xibaqua
+Xibaquas
+xibaquas
 Xipocado
 xipocado
 Xirgil
@@ -7444,6 +7510,8 @@ Zerphi
 zerphi
 Zerphi's
 zerphi's
+Zerphis
+zerphis
 Zhandragon
 zhandragon
 Zhenya

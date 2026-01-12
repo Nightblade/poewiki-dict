@@ -1506,6 +1506,8 @@ Debuffs
 debuffs
 Deciseconds
 deciseconds
+Decrepifying
+decrepifying
 Decurve
 decurve
 Dedalian
@@ -3142,6 +3144,8 @@ incinerateof
 Includeonly
 includeonly
 IncreasedFireDamgeIfHitRecentlyUnique__1
+Incursionlimb
+incursionlimb
 Indicies
 indicies
 Indigon

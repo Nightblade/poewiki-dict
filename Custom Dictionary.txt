@@ -6323,6 +6323,8 @@ Tawhoa
 tawhoa
 Tawhoan
 tawhoan
+Tawhoas
+tawhoas
 Tawm'r
 tawm'r
 TBHellscapePaleLightningBoltSpammableLeft

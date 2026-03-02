@@ -5958,6 +5958,7 @@ Splitbeast
 splitbeast
 Splitnewt
 splitnewt
+SPLITPERSONALITY
 Sporebloom
 sporebloom
 Sporebreath

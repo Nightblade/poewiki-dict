@@ -66,6 +66,8 @@ Aeterno
 aeterno
 Aetherwind
 aetherwind
+Afarud
+afarud
 AfflictionNotableMasterofFear
 AfflictionNotableWhispersofDeath
 AfflictionNotableWishforDeath_
@@ -526,6 +528,8 @@ Barbute
 barbute
 Bardiya
 bardiya
+Bardiyan
+bardiyan
 Bargg
 bargg
 Barius
@@ -553,6 +557,8 @@ Basetypes
 basetypes
 Base_onlsaught_on_hit
 base_onlsaught_on_hit
+Batoor
+batoor
 Battershout
 battershout
 Battlecharger
@@ -1356,6 +1362,8 @@ Crushclaw
 crushclaw
 Crushclaws
 crushclaws
+Cryogenesis
+cryogenesis
 Cryomancer
 cryomancer
 Cryomantic
@@ -1401,6 +1409,8 @@ Daggerdancer
 daggerdancer
 Daggerfoot
 daggerfoot
+Daiyata
+daiyata
 Daluatti
 daluatti
 Damagev
@@ -2194,6 +2204,8 @@ Flamebreath
 flamebreath
 Flamebringer
 flamebringer
+Flamecaller
+flamecaller
 Flamechaser
 flamechaser
 Flamecore
@@ -2303,6 +2315,8 @@ Formshifter
 formshifter
 Foulborn
 foulborn
+Foulgrasp
+foulgrasp
 Foulspawn
 foulspawn
 Foulspawns
@@ -2365,6 +2379,8 @@ Frostguard
 frostguard
 Frostkeeper
 frostkeeper
+Frostmage
+frostmage
 Frostspewing
 frostspewing
 Frostspout
@@ -2399,6 +2415,8 @@ Furyfoot
 furyfoot
 Fusilade
 fusilade
+Fusilladeof
+fusilladeof
 Galai
 galai
 Galecaller
@@ -2773,6 +2791,8 @@ Haliotis
 haliotis
 Hammerblows
 hammerblows
+Hammerfall
+hammerfall
 Hammerstorm
 hammerstorm
 Handcast
@@ -2922,8 +2942,12 @@ Hexclaw
 hexclaw
 Hexfont
 hexfont
+Hexpass
+hexpass
 Hexproof
 hexproof
+Hextoad
+hextoad
 Hextouch
 hextouch
 Hextouched
@@ -3549,6 +3573,8 @@ Kraityn
 kraityn
 Kraityn's
 kraityn's
+Krangle
+krangle
 Krangled
 krangled
 Kriar
@@ -5069,6 +5095,8 @@ RareFightingBullDropsMeginordsGirdle
 RareMadGladiatorDropsDaressosPassion
 Rasa
 rasa
+Rashi
+rashi
 Rashkaldor
 rashkaldor
 Rashkaldor's
@@ -5456,6 +5484,8 @@ Sarina
 sarina
 Sarn
 sarn
+Sasan
+sasan
 Sawblade
 sawblade
 Sawblades
@@ -5759,6 +5789,8 @@ Skyrim
 skyrim
 Skysliver
 skysliver
+Skysunder
+skysunder
 Slaugh
 slaugh
 Slavedriver
@@ -5818,6 +5850,8 @@ Solaro
 solaro
 Solarsworn
 solarsworn
+Solartwine
+solartwine
 Solerai
 solerai
 Somesuch
@@ -6149,6 +6183,8 @@ Stranglegasp
 stranglegasp
 Stridevolf
 stridevolf
+Strikeof
+strikeof
 Striketail
 striketail
 Strjewel
@@ -6194,6 +6230,7 @@ Supertypes
 supertypes
 Supplymaster
 supplymaster
+SupportAnnhilation
 SupportEncumberancePlayer
 SupportReveberatePlayer
 Supporttriggerelementalspellonblock
@@ -6533,6 +6570,8 @@ Toruul
 toruul
 Torvian
 torvian
+Toryal
+toryal
 TOTALCOST
 Totemable
 totemable
@@ -7037,6 +7076,8 @@ Voidstone
 voidstone
 Voidstones
 voidstones
+Voidstorm
+voidstorm
 Voidtouched
 voidtouched
 Voidwalker
@@ -7178,6 +7219,8 @@ Welakath
 welakath
 Wellsprites
 wellsprites
+Wellwater
+wellwater
 Wellwing
 wellwing
 Welp

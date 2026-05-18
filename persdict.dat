@@ -1496,6 +1496,8 @@ Davaro
 davaro
 Dawnbreaker
 dawnbreaker
+Dawnlit
+dawnlit
 Dawnstrider
 dawnstrider
 Deadhand
@@ -1939,6 +1941,8 @@ Emberborn
 emberborn
 Embercaller
 embercaller
+Emberglow
+emberglow
 Emberkeep
 emberkeep
 Embermage
@@ -2173,6 +2177,8 @@ Fireflower
 fireflower
 Firefury
 firefury
+Fireheart
+fireheart
 Firehose
 firehose
 Firemage
@@ -4207,6 +4213,8 @@ Mishne
 mishne
 Mistborn
 mistborn
+Mistbound
+mistbound
 Mistwalker
 mistwalker
 Mistwall
@@ -5099,6 +5107,8 @@ Rainbowstrides
 rainbowstrides
 Raincaller
 raincaller
+Raindancer
+raindancer
 Rakango
 rakango
 Rakangos
@@ -5522,6 +5532,8 @@ Sarn
 sarn
 Sasan
 sasan
+Satisified
+satisified
 Sawblade
 sawblade
 Sawblades
@@ -5908,6 +5920,8 @@ Soulbreaker
 soulbreaker
 Soulcatcher
 soulcatcher
+Soulcord
+soulcord
 Soulcore
 soulcore
 Soulcores
@@ -6524,6 +6538,8 @@ Tibbs's
 tibbs's
 Ticaba
 ticaba
+Tidebound
+tidebound
 Tidebreaker
 tidebreaker
 Tidecrasher
@@ -6811,6 +6827,8 @@ Uncancellable
 uncancellable
 Uncastable
 uncastable
+Uncursed
+uncursed
 Undamageable
 undamageable
 Undeath
@@ -6819,6 +6837,12 @@ Undercity
 undercity
 Underleveled
 underleveled
+Unequip
+unequip
+Unequipping
+unequipping
+Unequips
+unequips
 Unfetch
 unfetch
 Unfetched
@@ -6907,6 +6931,8 @@ Uzaza's
 uzaza's
 Vaal
 vaal
+Vaaled
+vaaled
 Vaalincursion
 vaalincursion
 Vaaling

@@ -38,6 +38,8 @@ Acidbeak
 acidbeak
 Actaeo
 actaeo
+Actboy168
+actboy168
 Actum
 actum
 Adamantia
@@ -138,6 +140,8 @@ Alberon's
 alberon's
 Alch
 alch
+Aldur
+aldur
 Alexey
 alexey
 Algor
@@ -217,6 +221,8 @@ Anundr
 anundr
 AoE
 AoEs
+Aoife
+aoife
 Apep
 apep
 Apep's
@@ -548,6 +554,8 @@ Barya
 barya
 Baryanic
 baryanic
+Baryas
+baryas
 Basecost
 basecost
 Baselard
@@ -1099,6 +1107,8 @@ Categorytree
 categorytree
 Categoryundead
 categoryundead
+Catha's
+catha's
 Cauteriser
 cauteriser
 Cava
@@ -1370,6 +1380,8 @@ Critting
 critting
 Crossblade
 crossblade
+Crossplay
+crossplay
 Crowbell
 crowbell
 Crowstorm
@@ -1530,6 +1542,8 @@ Debil
 debil
 Debuff
 debuff
+Debuffed
+debuffed
 Debuffing
 debuffing
 Debuffs
@@ -1607,6 +1621,8 @@ Desummon
 desummon
 Desync
 desync
+Desynced
+desynced
 Deton
 deton
 Devoto
@@ -1774,6 +1790,8 @@ Dreadforge
 dreadforge
 Dreadmore
 dreadmore
+Dreadnaught
+dreadnaught
 Dreadspire
 dreadspire
 Dreadstone
@@ -2021,6 +2039,8 @@ Eshgraft
 eshgraft
 Eshs
 eshs
+Eshtera's
+eshtera's
 Essentia
 essentia
 Estazunti
@@ -2397,6 +2417,8 @@ Frostferno
 frostferno
 Frostfire
 frostfire
+Frostflame
+frostflame
 Frostflower
 frostflower
 Frostguard
@@ -3012,6 +3034,8 @@ Hitboxes
 hitboxes
 Hitting_unqiue
 hitting_unqiue
+Hiveblood
+hiveblood
 Hiveborn
 hiveborn
 Hoghunt
@@ -3234,6 +3258,8 @@ Intellectus
 intellectus
 Intelli
 intelli
+Interactable
+interactable
 Intimidating_cry_empowerd_attacks_deal_double
 intimidating_cry_empowerd_attacks_deal_double
 IntimidayingCryTriggered
@@ -3465,6 +3491,8 @@ Keth
 keth
 Ketzuli
 ketzuli
+Keybind
+keybind
 Keyblade
 keyblade
 Khari
@@ -3803,6 +3831,8 @@ Lithomancer
 lithomancer
 Lithomancy
 lithomancy
+Lithomantic
+lithomantic
 Lithophysa
 lithophysa
 Lizardscale
@@ -4710,6 +4740,8 @@ Overcap
 overcap
 Overcapped
 overcapped
+Overencumbrance
+overencumbrance
 Overheadslam
 overheadslam
 Overheadslamforward
@@ -4950,6 +4982,10 @@ Poorjoy's
 poorjoy's
 Poporo
 poporo
+Popout
+popout
+Popouts
+popouts
 Porcellus
 porcellus
 Portentia
@@ -5257,6 +5293,8 @@ Renly
 renly
 Rentry
 rentry
+Replayability
+replayability
 Repudion
 repudion
 Reservationwatcher
@@ -5275,6 +5313,8 @@ Respawning
 respawning
 Respec
 respec
+Respecialisation
+respecialisation
 Restartlessly
 restartlessly
 Retchs
@@ -5423,8 +5463,14 @@ Runecrafting
 runecrafting
 Runed
 runed
+Runefather
+runefather
 Runeflaring
 runeflaring
+Runeforged
+runeforged
+Runeforging
+runeforging
 Runegleaming
 runegleaming
 Runegraft
@@ -5435,6 +5481,10 @@ Runegrafts
 runegrafts
 Runemaster
 runemaster
+Runeshape
+runeshape
+Runeshapes
+runeshapes
 Runeshining
 runeshining
 Runesmithed
@@ -5470,6 +5520,8 @@ Saffell
 saffell
 Saffell's
 saffell's
+Safrin's
+safrin's
 Sagari
 sagari
 Saitha
@@ -5829,6 +5881,8 @@ Skycaller
 skycaller
 Skycrown
 skycrown
+Skyfall
+skyfall
 Skyfire
 skyfire
 Skyforth
@@ -6059,6 +6113,8 @@ Spriggans
 spriggans
 Springleaf
 springleaf
+Spycraft
+spycraft
 Stabby
 stabby
 Stacatto
@@ -6246,6 +6302,8 @@ strongarm
 Strugglescream
 strugglescream
 StunThresholdfromEnergyShield
+Styrn's
+styrn's
 Subtables
 subtables
 Sulphurspawn
@@ -6257,6 +6315,8 @@ SummonBeastialSnake
 SummonBeastialUrsa
 Summone
 summone
+Sumneko
+sumneko
 SumonRagingSpiritMelee
 Sunblast
 sunblast
@@ -6558,6 +6618,8 @@ Timberwolf
 timberwolf
 Timeclasp
 timeclasp
+Timelost
+timelost
 Timestop
 timestop
 Timetwist
@@ -6876,6 +6938,8 @@ Unlight
 unlight
 Unmen
 unmen
+Unsavored
+unsavored
 Unshaping
 unshaping
 Unshattered
@@ -6999,6 +7063,8 @@ Vastiri
 vastiri
 Vastweld
 vastweld
+Veilpiercer
+veilpiercer
 Veinslicer
 veinslicer
 Venarius
@@ -7176,6 +7242,8 @@ Vornas
 vornas
 Vorrik
 vorrik
+Vruun
+vruun
 Vsync
 vsync
 Vulcanist
@@ -7219,6 +7287,8 @@ warcries
 Warcry
 warcry
 WarcyProjectiles
+Wardbound
+wardbound
 Wardbreaker
 wardbreaker
 Wardog
@@ -7419,6 +7489,8 @@ Witchhunter
 witchhunter
 Witchhunter's
 witchhunter's
+Witchtoads
+witchtoads
 Woebearer
 woebearer
 Woespike
@@ -7595,6 +7667,8 @@ Zahmir
 zahmir
 Zahndethus
 zahndethus
+Zaida's
+zaida's
 Zalatl
 zalatl
 Zalmarath

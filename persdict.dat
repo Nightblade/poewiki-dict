@@ -498,6 +498,7 @@ Azyran
 azyran
 Backburner
 backburner
+BADP
 Baeclast
 baeclast
 Bahlak
@@ -508,6 +509,8 @@ Balah
 balah
 Balbala
 balbala
+Balbalakh
+balbalakh
 Baleh
 baleh
 Ballhooking
@@ -595,6 +598,8 @@ Beastcrafting
 beastcrafting
 Beastcrafts
 beastcrafts
+Beastial
+beastial
 Beastlord
 beastlord
 Beastmaster
@@ -653,6 +658,8 @@ Bino
 bino
 Bino's
 bino's
+Biostatic
+biostatic
 Bircus
 bircus
 Bischof
@@ -675,6 +682,8 @@ Blackblooded
 blackblooded
 Blackbraid
 blackbraid
+Blackfire
+blackfire
 Blackflame
 blackflame
 Blackgleam
@@ -839,6 +848,8 @@ Blvcksvn
 blvcksvn
 Bnot
 bnot
+Bodach
+bodach
 Bodelle
 bodelle
 Bodyswap
@@ -1109,6 +1120,8 @@ Categoryundead
 categoryundead
 Catha's
 catha's
+Cathas
+cathas
 Cauteriser
 cauteriser
 Cava
@@ -1161,6 +1174,8 @@ Chainsting
 chainsting
 Chalybeous
 chalybeous
+Chance_rollovercapped
+chance_rollovercapped
 Channeler
 channeler
 Chaosbolt
@@ -1175,6 +1190,7 @@ Chaosweaver
 chaosweaver
 Charan
 charan
+ChargedDashof
 CharmEnchange
 CharmUnaffectedby
 Chatbox
@@ -1207,6 +1223,8 @@ Chillbg
 chillbg
 Chillcaller
 chillcaller
+Chillproof
+chillproof
 Chimeral
 chimeral
 Chimerals
@@ -1290,6 +1308,8 @@ Commandline
 commandline
 Compulsor
 compulsor
+Conall
+conall
 CONCAT
 Cond
 cond
@@ -1345,8 +1365,12 @@ Cospri
 cospri
 Cospri's
 cospri's
+Cospris
+cospris
 Cota
 cota
+Counterstancing
+counterstancing
 Cousine
 cousine
 Cpath
@@ -1703,6 +1727,8 @@ Dmgeff
 dmgeff
 Dmgspells
 dmgspells
+DMGTHORNS
+DMGTHORNSBASE
 Docere
 docere
 Doedre
@@ -1800,6 +1826,8 @@ Dreadsurge
 dreadsurge
 Dreadwheel
 dreadwheel
+Dreamcatcher
+dreamcatcher
 Dreamfeather
 dreamfeather
 Dreamquest
@@ -1890,8 +1918,12 @@ Edryd
 edryd
 Edvinas
 edvinas
+Edyrn
+edyrn
 Edyrn's
 edyrn's
+Edyrns
+edyrns
 Eedaiak
 eedaiak
 Eelskin
@@ -2010,6 +2042,8 @@ Eoin
 eoin
 Eonyr's
 eonyr's
+Eonyrs
+eonyrs
 EOUTOFMEMORY
 Ephij
 ephij
@@ -2039,6 +2073,8 @@ Eshgraft
 eshgraft
 Eshs
 eshs
+Eshtera
+eshtera
 Eshtera's
 eshtera's
 Essentia
@@ -2063,6 +2099,8 @@ Eviscerator
 eviscerator
 Evocata
 evocata
+Evocational
+evocational
 Evocationist
 evocationist
 Ewar
@@ -2274,6 +2312,8 @@ Flamestrider
 flamestrider
 Flametosser
 flametosser
+Flamewalker
+flamewalker
 Flameweaver
 flameweaver
 Flameweeper
@@ -2308,6 +2348,8 @@ Fleshbinding
 fleshbinding
 Fleshcrafter
 fleshcrafter
+Fleshcrafting
+fleshcrafting
 Flesheater
 flesheater
 Flesheaters
@@ -2345,6 +2387,8 @@ Foaga
 foaga
 FONTIN
 FORCETOC
+Forcewave
+forcewave
 Forgeguard
 forgeguard
 Forgehammer
@@ -2431,6 +2475,8 @@ Frostspewing
 frostspewing
 Frostspout
 frostspout
+Frostwalker
+frostwalker
 Frostwall
 frostwall
 Frostweaver
@@ -2531,6 +2577,7 @@ gemdesc
 GEMDESCRIPTION
 Gemfish
 gemfish
+GEMINFO
 Gemling
 gemling
 Gemlings
@@ -2901,6 +2948,8 @@ Headcrusher
 headcrusher
 Headerfunction
 headerfunction
+Headshot
+headshot
 Headstaver
 headstaver
 Headtaker
@@ -2937,6 +2986,8 @@ Helbrym
 helbrym
 Helbrym's
 helbrym's
+Helbryms
+helbryms
 Heldra
 heldra
 Helial
@@ -3048,10 +3099,14 @@ Hollowskull
 hollowskull
 Holten
 holten
+Homeguard
+homeguard
 Honourhold
 honourhold
 Honourhome
 honourhome
+Honourless
+honourless
 Hoofprints
 hoofprints
 Hookhorror
@@ -3152,6 +3207,8 @@ Iceweaver
 iceweaver
 Ichimonji
 ichimonji
+Ichlotl's
+ichlotl's
 Icius
 icius
 Ifeq
@@ -3383,6 +3440,8 @@ Jik'shah
 jik'shah
 Jikeji
 jikeji
+Jingakh
+jingakh
 Jiquani
 jiquani
 Jiquanis
@@ -3399,6 +3458,10 @@ Jorrhast's
 jorrhast's
 Jorus
 jorus
+Jowel
+jowel
+Jowels
+jowels
 Jozen
 jozen
 Juatalotli
@@ -3479,6 +3542,8 @@ Kaso
 kaso
 Kastov
 kastov
+Katla
+katla
 Keita
 keita
 Kelari
@@ -3589,6 +3654,8 @@ Kole
 kole
 Kolf
 kolf
+Kolr
+kolr
 Kondo
 kondo
 Kondo's
@@ -3752,6 +3819,8 @@ Leli
 leli
 Lessard
 lessard
+Lessers
+lessers
 Levelreq
 levelreq
 Levinstone
@@ -3903,6 +3972,8 @@ Luajit
 luajit
 Luasocket
 luasocket
+Luassert
+luassert
 Lukthu
 lukthu
 Lumbermill
@@ -4034,6 +4105,8 @@ Manchettes
 manchettes
 Maniacism
 maniacism
+Mannan's
+mannan's
 Manoki
 manoki
 Manshrike
@@ -4096,14 +4169,20 @@ mawdun
 Maxarius
 maxarius
 MaximumPowerandEnduranceChargesImplicitE1
+Maxmcode
+maxmcode
 Maxn
 maxn
 Maxroll
 maxroll
+Maxtrace
+maxtrace
 Mazarine
 mazarine
 Maztli
 maztli
+Mazus
+mazus
 Mbox
 mbox
 mbXtreme
@@ -4122,6 +4201,8 @@ Medved
 medved
 Medved's
 medved's
+Medveds
+medveds
 Meginord
 meginord
 Meginord's
@@ -4294,6 +4375,8 @@ Moosh
 moosh
 Mordhau
 mordhau
+Morgana
+morgana
 Morgana's
 morgana's
 Morganas
@@ -4306,6 +4389,8 @@ Morior
 morior
 Morpher
 morpher
+Morrigans
+morrigans
 Morsexier
 morsexier
 Morsu
@@ -4644,6 +4729,8 @@ Olroth
 olroth
 Olroth's
 olroth's
+Olroths
+olroths
 Olrovasara
 olrovasara
 Omeyocan
@@ -4726,12 +4813,16 @@ Ossecati
 ossecati
 Osseodon
 osseodon
+Oswin
+oswin
 Otairo
 otairo
 Otesha
 otesha
 Otherwords
 otherwords
+Otherworldy
+otherworldy
 Outlevel
 outlevel
 Outro
@@ -4766,6 +4857,8 @@ Oyun's
 oyun's
 Packhound
 packhound
+Packleader
+packleader
 Pagedown
 pagedown
 PAGENAME
@@ -4786,6 +4879,8 @@ Panthera
 panthera
 Paquate
 paquate
+Paquates
+paquates
 Paradisae
 paradisae
 Paradoxica
@@ -5181,6 +5276,8 @@ Rashkaldor
 rashkaldor
 Rashkaldor's
 rashkaldor's
+Ratha
+ratha
 Ratha's
 ratha's
 Rathbreaker
@@ -5441,6 +5538,8 @@ Rugosa
 rugosa
 Ruhaki
 ruhaki
+Ruinic
+ruinic
 Rukuku
 rukuku
 Rumblemarch
@@ -5481,6 +5580,10 @@ Runegrafts
 runegrafts
 Runemaster
 runemaster
+Runemastered
+runemastered
+Runeseeker
+runeseeker
 Runeshape
 runeshape
 Runeshapes
@@ -5520,6 +5623,8 @@ Saffell
 saffell
 Saffell's
 saffell's
+Safrin
+safrin
 Safrin's
 safrin's
 Sagari
@@ -5560,6 +5665,8 @@ Sanguimancer
 sanguimancer
 Sanguimancy
 sanguimancy
+Sanguimantic
+sanguimantic
 Sanguis
 sanguis
 Santoni
@@ -5615,6 +5722,8 @@ Screenshake
 screenshake
 Scry
 scry
+Scrying
+scrying
 SDPS
 Seaborn
 seaborn
@@ -5658,6 +5767,8 @@ Septimus
 septimus
 Serath
 serath
+Seren
+seren
 Serle
 serle
 Serle's
@@ -5676,6 +5787,12 @@ Setfenv
 setfenv
 Setopt
 setopt
+Setoption
+setoption
+Setpause
+setpause
+Settimeout
+settimeout
 Sevet
 sevet
 Shadestalker
@@ -5769,6 +5886,8 @@ Sidearea
 sidearea
 Sideboss
 sideboss
+Sidereus
+sidereus
 Siderooms
 siderooms
 Sidhebite
@@ -5797,6 +5916,8 @@ Silverthorne
 silverthorne
 Silverwood
 silverwood
+Singlular
+singlular
 Sinvicta
 sinvicta
 Sinvicta's
@@ -5933,6 +6054,8 @@ Snowcaller
 snowcaller
 Snowforged
 snowforged
+Snowpiercer
+snowpiercer
 Socketable
 socketable
 Socketables
@@ -6125,6 +6248,8 @@ Stamatis
 stamatis
 Stantinus
 stantinus
+Starborn
+starborn
 Starcaller
 starcaller
 Starfall
@@ -6217,6 +6342,8 @@ Stormborn
 stormborn
 Stormbrand
 stormbrand
+Stormbreaker
+stormbreaker
 Stormbrewer
 stormbrewer
 Stormburst
@@ -6273,6 +6400,8 @@ Stormsurge
 stormsurge
 Stormtouched
 stormtouched
+Stormwalker
+stormwalker
 Stormwall
 stormwall
 Stormweaver
@@ -6302,8 +6431,14 @@ strongarm
 Strugglescream
 strugglescream
 StunThresholdfromEnergyShield
+Stylebender
+stylebender
 Styrn's
 styrn's
+Styrns
+styrns
+Substate
+substate
 Subtables
 subtables
 Sulphurspawn
@@ -6326,6 +6461,8 @@ Suncaller
 suncaller
 Sundance
 sundance
+Sunfire
+sunfire
 Sunprism
 sunprism
 Sunspire
@@ -6347,7 +6484,6 @@ Supporttriggerelementalspellonblock
 supporttriggerelementalspellonblock
 Supporttriggerfirespellonhit
 supporttriggerfirespellonhit
-SupportUniqueCosprisMaliceColdSpellsCastOn
 Surfcaster
 surfcaster
 Surgebinders
@@ -6362,6 +6498,8 @@ Sutrus
 sutrus
 Svalinn
 svalinn
+Sventura
+sventura
 Swiftbrand
 swiftbrand
 Swiftstalker
@@ -6475,7 +6613,6 @@ Tawhoas
 tawhoas
 Tawm'r
 tawm'r
-TBHellscapePaleLightningBoltSpammableLeft
 Tbody
 tbody
 Tcid
@@ -6499,6 +6636,8 @@ Temu
 temu
 Terese
 terese
+Testling
+testling
 Tetherein
 tetherein
 Tetzcatl
@@ -6544,6 +6683,8 @@ Thornflesh
 thornflesh
 Thornfruit
 thornfruit
+Thornhide
+thornhide
 Thornmaul
 thornmaul
 Thornmaw
@@ -6570,6 +6711,8 @@ Throatseeker
 throatseeker
 Throatslitter
 throatslitter
+Thrud
+thrud
 Thruldana
 thruldana
 Thunderburst
@@ -6851,6 +6994,8 @@ Uber
 uber
 Uhtred
 uhtred
+Uhtreds
+uhtreds
 Uiimages
 uiimages
 Ulaman
@@ -6873,6 +7018,8 @@ Unaff
 unaff
 Unalloc
 unalloc
+Unallocate
+unallocate
 Unallocating
 unallocating
 Unanointed
@@ -6881,6 +7028,10 @@ Unbating
 unbating
 Unblockable
 unblockable
+Unbothering
+unbothering
+Unbreaking
+unbreaking
 Unbuffed
 unbuffed
 Unbug
@@ -6930,8 +7081,6 @@ UniqueNonherent
 Uniques
 uniques
 UniqueVolkuursGuidanceIgniteDurationFinal
-Unique_cospris_malice_cold_spells_triggered
-unique_cospris_malice_cold_spells_triggered
 Unleashable
 unleashable
 Unlight
@@ -6944,6 +7093,8 @@ Unshaping
 unshaping
 Unshattered
 unshattered
+Unsight
+unsight
 Unsocket
 unsocket
 Unsquelch
@@ -7150,6 +7301,8 @@ Visceris
 visceris
 Vitali
 vitali
+Vitalic
+vitalic
 Vitorica
 vitorica
 Vivici
@@ -7244,6 +7397,9 @@ Vorrik
 vorrik
 Vruun
 vruun
+Vruuns
+vruuns
+VruunsInevitablity
 Vsync
 vsync
 Vulcanist
@@ -7321,6 +7477,8 @@ Watchstones
 watchstones
 Waterdancing
 waterdancing
+Waterskin
+waterskin
 Waveshaper
 waveshaper
 Waycarver
@@ -7331,6 +7489,8 @@ Waystone
 waystone
 Waystones
 waystones
+Weakspot
+weakspot
 Weap
 weap
 Weaponcraft
@@ -7343,6 +7503,8 @@ Webm
 webm
 Webmother
 webmother
+Webp
+webp
 Webspinner
 webspinner
 Webweaver
@@ -7669,6 +7831,8 @@ Zahndethus
 zahndethus
 Zaida's
 zaida's
+Zaitema
+zaitema
 Zalatl
 zalatl
 Zalmarath

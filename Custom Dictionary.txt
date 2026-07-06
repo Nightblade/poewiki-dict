@@ -1167,6 +1167,7 @@ Cerberic
 cerberic
 Cerberon
 cerberon
+CGEArenaBeastBossSulpurGas
 Ch'aska
 ch'aska
 Chaber
@@ -2910,6 +2911,8 @@ Handcast
 handcast
 Handfinger
 handfinger
+Handwrap
+handwrap
 Hapihapi
 hapihapi
 Hardleather
@@ -4360,6 +4363,8 @@ Mjölner
 mjölner
 Mjölners
 mjölners
+Modline
+modline
 Modlist
 modlist
 Moeanu
@@ -5280,6 +5285,8 @@ Ralakesh's
 ralakesh's
 Ramako
 ramako
+Random_perdandus_prefix
+random_perdandus_prefix
 Rangeen
 rangeen
 Rania

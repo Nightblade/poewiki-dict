@@ -1021,6 +1021,8 @@ Brylla
 brylla
 Brynhand's
 brynhand's
+Brynhands
+brynhands
 Bugbot
 bugbot
 BurrowerVacuume
@@ -3198,6 +3200,8 @@ Hyseria
 hyseria
 Hysseg's
 hysseg's
+Hyssegs
+hyssegs
 Hysteriagate
 hysteriagate
 Iamnewhere
@@ -3281,6 +3285,7 @@ Imperius
 imperius
 Implicits
 implicits
+ImplicitUnaffectedby
 Impresence
 impresence
 Imsjp
@@ -3994,6 +3999,8 @@ Luacov
 luacov
 Luajit
 luajit
+Luarocks
+luarocks
 Luasocket
 luasocket
 Luassert
@@ -5429,6 +5436,7 @@ Repudion
 repudion
 Reservationwatcher
 reservationwatcher
+ResistancesImplict
 Resourcelogcreate
 resourcelogcreate
 Resourcelogmainresolve
@@ -5619,6 +5627,8 @@ Runemastered
 runemastered
 Runeseeker
 runeseeker
+Runeseekers
+runeseekers
 Runeshape
 runeshape
 Runeshapes

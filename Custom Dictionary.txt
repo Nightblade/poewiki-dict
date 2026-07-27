@@ -815,6 +815,8 @@ Bloodpriests
 bloodpriests
 Bloodreap
 bloodreap
+Bloodrend
+bloodrend
 Bloodrite
 bloodrite
 Bloodscent
@@ -971,6 +973,8 @@ Brightbeak
 brightbeak
 Brinecrack
 brinecrack
+Brinehook
+brinehook
 Brinerot
 brinerot
 Brinespawn
@@ -1434,6 +1438,8 @@ Cryophile
 cryophile
 Crystalarium
 crystalarium
+Crystalfall
+crystalfall
 Crystalising
 crystalising
 Crystalskin
@@ -2907,6 +2913,8 @@ Hammerblows
 hammerblows
 Hammerfall
 hammerfall
+Hammerfalls
+hammerfalls
 Hammerstorm
 hammerstorm
 Handcast
@@ -3746,6 +3754,8 @@ Kruug
 kruug
 Ksaret
 ksaret
+Ktash
+ktash
 Kuduku
 kuduku
 Kul'gul
@@ -4222,6 +4232,8 @@ Mdash
 mdash
 Meatgrinder
 meatgrinder
+Meatsack
+meatsack
 Mechalarm
 mechalarm
 Mecharach
@@ -5772,6 +5784,8 @@ scry
 Scrying
 scrying
 SDPS
+Seablister
+seablister
 Seaborn
 seaborn
 Seaglass
@@ -6250,6 +6264,8 @@ Spinehail
 spinehail
 Spinesnap
 spinesnap
+Spinesnatch
+spinesnatch
 Spinesnatcher
 spinesnatcher
 Spinestorm
@@ -6606,6 +6622,8 @@ Tangzx
 tangzx
 Tani
 tani
+Tanky
+tanky
 Tantalo
 tantalo
 Tanu
@@ -7275,6 +7293,8 @@ Veilpiercer
 veilpiercer
 Veinslicer
 veinslicer
+Velka
+velka
 Venarius
 venarius
 Vendigo
@@ -7568,6 +7588,8 @@ Webweaver
 webweaver
 Welakath
 welakath
+Wellhook
+wellhook
 Wellsprites
 wellsprites
 Wellwater
@@ -7935,6 +7957,8 @@ Zizaran
 zizaran
 Zolin
 zolin
+Zorath
+zorath
 Zorioc
 zorioc
 Zrevnur's

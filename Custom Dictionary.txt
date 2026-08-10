@@ -1090,6 +1090,8 @@ cameria's
 Candlemass
 candlemass
 CannnotHaveNonAnimatedMinionsUnique
+Captainsbane
+captainsbane
 Carapaced
 carapaced
 Cardbeard
@@ -1821,6 +1823,8 @@ Drakeskin
 drakeskin
 Draugur's
 draugur's
+Draugurflames
+draugurflames
 Draven
 draven
 Draíocht
@@ -2233,6 +2237,8 @@ Filimite
 filimite
 Filimites
 filimites
+Filthscrabble
+filthscrabble
 Findexplicit
 findexplicit
 Findimplicit
@@ -4052,6 +4058,8 @@ M'uneh
 m'uneh
 Maata
 maata
+Maatas
+maatas
 Maceman
 maceman
 Machinarium
@@ -5451,6 +5459,8 @@ Replayability
 replayability
 Repudion
 repudion
+Reranking
+reranking
 Reservationwatcher
 reservationwatcher
 ResistancesImplict

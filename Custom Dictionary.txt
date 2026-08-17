@@ -2627,6 +2627,8 @@ Gepl
 gepl
 Getaccountname
 getaccountname
+Getfenv
+getfenv
 Getsessionid
 getsessionid
 GGG
@@ -4304,6 +4306,8 @@ Metamorphs
 metamorphs
 Metatable
 metatable
+Metatables
+metatables
 Mevia
 mevia
 Mevion
@@ -6545,6 +6549,8 @@ Sunfire
 sunfire
 Sunprism
 sunprism
+Sunscald
+sunscald
 Sunspire
 sunspire
 Sunspite
@@ -7128,6 +7134,8 @@ Uncancellable
 uncancellable
 Uncastable
 uncastable
+Unconstructed
+unconstructed
 Uncursed
 uncursed
 Undamageable

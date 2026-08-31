@@ -5044,6 +5044,8 @@ Pileah
 pileah
 Pillarcrusher
 pillarcrusher
+Pinnable
+pinnable
 Pirasha
 pirasha
 Piratebane
@@ -5854,6 +5856,8 @@ Serle
 serle
 Serle's
 serle's
+Serles
+serles
 Serpentscale
 serpentscale
 Serpentstance
@@ -7141,6 +7145,8 @@ Unconstructed
 unconstructed
 Uncursed
 uncursed
+Uncustomised
+uncustomised
 Undamageable
 undamageable
 Undeath

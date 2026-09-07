@@ -142,6 +142,8 @@ Alch
 alch
 Aldur
 aldur
+Aldurs
+aldurs
 Alexey
 alexey
 Algor
@@ -495,6 +497,8 @@ azmerian
 Azmerians
 azmerians
 AzmeriBasiliskDecapThrust
+Azrus
+azrus
 Azyran
 azyran
 Backburner
@@ -1150,6 +1154,8 @@ Cavestalker
 cavestalker
 Cavia
 cavia
+Cdef
+cdef
 Celona
 celona
 Cenotes
@@ -1799,6 +1805,8 @@ Dovecaller
 dovecaller
 Doven
 doven
+Downlevels
+downlevels
 Downloadcharlist
 downloadcharlist
 Draconarius
@@ -1932,6 +1940,8 @@ Eber
 eber
 Eber's
 eber's
+Ebers
+ebers
 Echoforge
 echoforge
 Echoist
@@ -3431,6 +3441,8 @@ Itemfilters
 itemfilters
 Itemlevel
 itemlevel
+Itemset
+itemset
 Ixchel
 ixchel
 Ixchel's
@@ -3641,6 +3653,8 @@ Kinarha
 kinarha
 Kineticism
 kineticism
+Kineticist
+kineticist
 Kingsguard
 kingsguard
 Kingsmarch
@@ -4168,6 +4182,8 @@ Manshrike
 manshrike
 Mantaray
 mantaray
+Manyshot
+manyshot
 MapDoryanisMachinariumDisplayUnique__1
 MapMoreMonsterPackVarietyOlmecs_
 Maracle
@@ -4266,6 +4282,7 @@ Meginord's
 meginord's
 Mektul
 mektul
+MeleeStrikesMaraduerPhys
 Melnichenko
 melnichenko
 Melnichuk
@@ -4278,6 +4295,8 @@ Mentalacuity
 mentalacuity
 Mephod
 mephod
+Merc
+merc
 Mercutio
 mercutio
 Meritania
@@ -4998,6 +5017,8 @@ Perkin
 perkin
 Perma
 perma
+Permanenet_mercenary
+permanenet_mercenary
 Permyriad
 permyriad
 Pernach
@@ -5577,6 +5598,8 @@ Rollable
 rollable
 Rollem
 rollem
+Rollup
+rollup
 Romira
 romira
 Romira's
@@ -5619,6 +5642,8 @@ Ruhaki
 ruhaki
 Ruinic
 ruinic
+Ruktara
+ruktara
 Rukuku
 rukuku
 Rumblemarch
@@ -6822,6 +6847,8 @@ Thunderguard
 thunderguard
 Thunderhand
 thunderhand
+Thunderquiver
+thunderquiver
 Thundersight
 thundersight
 Thunderskull
@@ -7137,10 +7164,14 @@ Unbuffed
 unbuffed
 Unbug
 unbug
+Uncalculated
+uncalculated
 Uncancellable
 uncancellable
 Uncastable
 uncastable
+Uncomposed
+uncomposed
 Unconstructed
 unconstructed
 Uncursed
@@ -7173,8 +7204,14 @@ Ungil's
 ungil's
 Ungulath
 ungulath
+Ungzipped
+ungzipped
 Unhearable
 unhearable
+Unhire
+unhire
+Unhired
+unhired
 Unided
 unided
 UniqueAilmentChanceRecieved1
@@ -7501,6 +7538,8 @@ Vorm
 vorm
 Vornas
 vornas
+Vorneka
+vorneka
 Vorrik
 vorrik
 Vruun
@@ -7569,6 +7608,8 @@ Warmaster
 warmaster
 Warpick
 warpick
+Warpriest
+warpriest
 Warstaff
 warstaff
 Warstaffs

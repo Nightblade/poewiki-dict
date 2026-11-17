@@ -436,8 +436,11 @@ Aurabot
 aurabot
 Aurafix
 aurafix
+Aurel
+aurel
 Aurelianus
 aurelianus
+AureltheHungry
 Aurid
 aurid
 Auriot
@@ -532,6 +535,7 @@ Bangled
 bangled
 Bannerbearing
 bannerbearing
+BannerofLunaris
 Baracus
 baracus
 Baran
@@ -681,6 +685,8 @@ Bitterbind
 bitterbind
 Bitterblade
 bitterblade
+Bitterblood
+bitterblood
 Bitterbloom
 bitterbloom
 Bitterdream
@@ -749,6 +755,8 @@ Bleeter
 bleeter
 Blightblade
 blightblade
+Blightcore
+blightcore
 Blightheart
 blightheart
 Blightmaster
@@ -765,6 +773,8 @@ Blightspeaker
 blightspeaker
 Blightwell
 blightwell
+Blightworm
+blightworm
 Blinkflame
 blinkflame
 Blisterboil
@@ -988,6 +998,7 @@ Brinesplitter
 brinesplitter
 Briney
 briney
+BringerofBlood
 Briskwrap
 briskwrap
 Bristlebeast
@@ -1034,6 +1045,7 @@ Brynhands
 brynhands
 Bugbot
 bugbot
+BundleofWoe
 BurrowerVacuume
 Burtok
 burtok
@@ -1174,6 +1186,8 @@ Centertemplar
 centertemplar
 Centerwitch
 centerwitch
+Centienergy
+centienergy
 Cephalis
 cephalis
 Ceraunophile
@@ -1244,6 +1258,7 @@ Chillbg
 chillbg
 Chillcaller
 chillcaller
+ChilloftheMountain
 Chillproof
 chillproof
 Chimeral
@@ -1313,6 +1328,7 @@ Cloudwhisper
 cloudwhisper
 Clustertrap
 clustertrap
+CoagulationofGore
 Cogwork
 cogwork
 Coldhearted
@@ -1764,6 +1780,7 @@ doedre's
 Doedres
 doedres
 DoedresTenureFated
+DoedretheVile
 Dogpile
 dogpile
 Dominus
@@ -1846,6 +1863,10 @@ Dreadfist
 dreadfist
 Dreadforge
 dreadforge
+Dreadmaiden
+dreadmaiden
+Dreadmaidens
+dreadmaidens
 Dreadmore
 dreadmore
 Dreadnaught
@@ -1937,6 +1958,7 @@ Earthshatter
 earthshatter
 Earthshattering
 earthshattering
+EaterofWorlds
 Eber
 eber
 Eber's
@@ -1969,6 +1991,7 @@ Effigial
 effigial
 Effigon
 effigon
+EffigyofFear
 Egor
 egor
 Egrin
@@ -2743,6 +2766,7 @@ Goatqueen
 goatqueen
 Goblinedge
 goblinedge
+GoddessofPurity
 Godmode
 godmode
 Godslayer
@@ -2763,10 +2787,14 @@ Goldwyrm
 goldwyrm
 Golemancer
 golemancer
+Golemic
+golemic
 Golemsblood
 golemsblood
 Gomin
 gomin
+Goreblossom
+goreblossom
 Gorebreaker
 gorebreaker
 Goredrill
@@ -4205,6 +4233,7 @@ Maramoa's
 maramoa's
 Marceus
 marceus
+MarceustheDefaced
 Marchak
 marchak
 Marcovius
@@ -4257,6 +4286,8 @@ Maxtrace
 maxtrace
 Mazarine
 mazarine
+Mazcotl
+mazcotl
 Maztli
 maztli
 Mazus
@@ -4316,6 +4347,7 @@ Merveil
 merveil
 Meself
 meself
+MessengeroftheDesert
 Messer
 messer
 Metacraft
@@ -4455,6 +4487,8 @@ Moonbender's
 moonbender's
 Moondrops
 moondrops
+Moonfall
+moonfall
 Moonsorrow
 moonsorrow
 Moontouched
@@ -4548,6 +4582,8 @@ mutatedunique
 MutatedUniqueAmluet
 Mutewind
 mutewind
+Mycotic
+mycotic
 Myrae
 myrae
 Myris
@@ -5427,6 +5463,8 @@ Reaver
 reaver
 Reavers
 reavers
+Recalc
+recalc
 Recalcs
 recalcs
 Recombinate
@@ -6004,6 +6042,8 @@ Showtitlebarname
 showtitlebarname
 Shrapnelbearer
 shrapnelbearer
+ShredderofGladiators
+ShreikerEihal
 Shyaba
 shyaba
 Sidearea
@@ -6638,6 +6678,9 @@ Swiftbrand
 swiftbrand
 Swiftstalker
 swiftstalker
+Swordmaster's
+swordmaster's
+SwordofLunaris
 Swordstorm
 swordstorm
 Synthete
@@ -6749,6 +6792,7 @@ Tawhoas
 tawhoas
 Tawm'r
 tawm'r
+tblightcoreNotableIndex
 Tbody
 tbody
 Tcid
@@ -6861,6 +6905,8 @@ Thunderfist
 thunderfist
 Thundergod
 thundergod
+Thundergods
+thundergods
 Thunderguard
 thunderguard
 Thunderhand
@@ -7250,6 +7296,8 @@ unlight
 Unmen
 unmen
 UNPARSEABLE
+Unrecovered
+unrecovered
 Unsavored
 unsavored
 Unshaping
@@ -7462,6 +7510,10 @@ Viridi's
 viridi's
 Viromancer
 viromancer
+VisceraHarbingerof
+VisceraIncarnationof
+VisceraNightmareof
+VisceraQuru
 Visceris
 visceris
 Vitali
@@ -7824,6 +7876,8 @@ Witchhunter
 witchhunter
 Witchhunter's
 witchhunter's
+Witchhunters
+witchhunters
 Witchmark
 witchmark
 Witchtoads
